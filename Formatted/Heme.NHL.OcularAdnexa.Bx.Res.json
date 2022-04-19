@@ -1,0 +1,995 @@
+    {
+        "resourceType": "ConceptMap",
+        "status": "draft",
+        "name": "Heme.NHL.OcularAdnexa.Bx.Res",
+        "title": "Heme.NHL.OcularAdnexa.Bx.Res",
+        "experimental": true,
+        "date": "2022-04-19",
+        "publisher": "College of American Pathologists",
+        "contact": [
+            {
+                "telecom": [
+                    {
+                        "system": "email",
+                        "value": "agoel@cap.org"
+                    }
+                ]
+            }
+        ],
+        "description": "mapping of SNOMED to CAP CKeys",
+        "purpose": "mapping of SNOMED to CAP CKeys",
+        "copyright": "College of American Pathologists 2022",
+        "group": [
+            {
+                "source": "http://cap.org/eCC",
+                "target": "http://snomed.info/sct",
+                "element": [
+                    {
+                        "code": "22361.1",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22362.1",
+                        "display": "Tumor Site",
+                        "target": [
+                            {
+                                "code": "399687005 |Anatomic location of primary malignant neoplasm (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22363.1",
+                        "display": "Ocular adnexa",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17417.1",
+                        "display": "SPECIMEN",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17234.1",
+                        "display": "Specimen (Note A)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "19025.1",
+                        "display": "Conjunctiva",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "21009.1",
+                        "display": "Orbital soft tissue (orbit)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20428.1",
+                        "display": "Lacrimal gland",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20429.1",
+                        "display": "Lacrimal sac or nasolacrimal duct (lacrimal drainage apparatus)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20430.1",
+                        "display": "Eyelid",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17236.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17237.1",
+                        "display": "Not specified",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "19026.1",
+                        "display": "Procedure",
+                        "target": [
+                            {
+                                "code": "2620001000004108 |Specimen collection procedure (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20431.1",
+                        "display": "Biopsy",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20432.1",
+                        "display": "Resection",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20435.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20433.1",
+                        "display": "Not specified",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17238.1",
+                        "display": "Lymph Node Sampling (Note B)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17239.1",
+                        "display": "Not applicable",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17240.1",
+                        "display": "Regional lymph node(s) (preauricular / parotid, submandibular, or cervical)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17295.1",
+                        "display": "Central lymph node(s) (lymph nodes from the trunk, e.g., mediastinal, para-aortic)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17297.1",
+                        "display": "Peripheral lymph node(s) (lymph nodes from distant sites other than central)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17241.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17243.1",
+                        "display": "Not specified",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17419.1",
+                        "display": "TUMOR",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17245.1",
+                        "display": "Histologic Type (based on the 2008 World Health Organization [WHO] classification) (Note C)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20438.1",
+                        "display": "# Included in this category are marginal zone lymphomas that lack key features associated with MALT-type marginal zone lymphoma.",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17257.1",
+                        "display": "Extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue (MALT lymphoma)#",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17259.1",
+                        "display": "Follicular lymphoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17266.1",
+                        "display": "Diffuse large B-cell lymphoma, not otherwise specified (NOS)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17265.1",
+                        "display": "Mantle cell lymphoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17251.1",
+                        "display": "Chronic lymphocytic leukemia / small lymphocytic lymphoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17253.1",
+                        "display": "Lymphoplasmacytic lymphoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17272.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16106.1",
+                        "display": "EXTENT",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "19027.1",
+                        "display": "Tumor Size (may be determined from radiographic studies)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20434.1",
+                        "display": "Greatest dimension (cm)",
+                        "target": [
+                            {
+                                "code": "200001000004104 |Greatest length dimension of excised primary malignant neoplasm (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20439.1",
+                        "display": "Additional Dimension (cm)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22926.1",
+                        "display": "Additional Dimensions (cm)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20437.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17666.1",
+                        "display": "SPECIAL STUDIES",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17305.1",
+                        "display": "Immunophenotyping (Flow Cytometry and / or Immunohistochemistry) (Note E)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17306.1",
+                        "display": "Performed, see separate report",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17307.1",
+                        "display": "Performed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17308.1",
+                        "display": "Specify Method(s) and Results",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17309.1",
+                        "display": "Not performed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20445.1",
+                        "display": "Cytogenetic Studies (Note F)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20446.1",
+                        "display": "Performed, see separate report",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20447.1",
+                        "display": "Performed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20448.1",
+                        "display": "Specify Method(s) and Results",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20449.1",
+                        "display": "Not performed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20444.1",
+                        "display": "Molecular Genetic Studies (Note G)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20450.1",
+                        "display": "Performed, see separate report",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20451.1",
+                        "display": "Performed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20452.1",
+                        "display": "Specify Method(s) and Results",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20453.1",
+                        "display": "Not performed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17669.1",
+                        "display": "PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th Edition)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17312.1",
+                        "display": "?TNM Descriptors (Note D)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "4011.100004",
+                        "display": "?Not applicable",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17313.1",
+                        "display": "b (bilateral)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17314.1",
+                        "display": "m (multiple)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17315.1",
+                        "display": "r (recurrent)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17316.1",
+                        "display": "y (post-treatment)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17323.1",
+                        "display": "Primary Tumor (pT)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17324.1",
+                        "display": "pTX: Lymphoma extent not specified",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17325.1",
+                        "display": "pT0: No evidence of primary tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17326.1",
+                        "display": "pT1:  Lymphoma involving the conjunctiva alone without orbital involvement",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17329.1",
+                        "display": " pT1a: Bulbar conjunctiva involvement only",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17330.1",
+                        "display": "pT1b: Palpebral conjunctiva involvement (with or without fornix or caruncle involvement)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17331.1",
+                        "display": "pT1c: Extensive conjunctival involvement (i.e., both bulbar and nonbulbar conjunctiva involvement)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17332.1",
+                        "display": "pT2:  Lymphoma with orbital involvement with or without conjunctival involvement",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20436.1",
+                        "display": "# The anterior orbit is defined as the area between the orbital septum and the equator of the globe.  The posterior orbit is defined as the area posterior to the equator of the globe, extending to the orbital apex.",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17327.1",
+                        "display": "pT2a: Anterior orbital involvement,# but no lacrimal gland involvement (with or without conjunctival involvement)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17328.1",
+                        "display": "pT2b: Anterior orbital involvement with lacrimal gland involvement (with or without conjunctival involvement)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17333.1",
+                        "display": "pT2c:  Posterior orbital involvement (with or without anterior orbital involvement; with or without conjunctival involvement; with or without extraocular muscle involvement)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17334.1",
+                        "display": "pT2d: Nasolacrimal drainage system involvement (with or without conjunctival involvement, but not involving nasopharynx)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20441.1",
+                        "display": "## Eyelid involvement is said to exist when the ocular adnexal lymphoma infiltrates preseptal tissues (i.e., tissues anterior to the orbital septum).",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17335.1",
+                        "display": "pT3:  Lymphoma with pre-septal eyelid involvement## (with or without orbital or conjunctival involvement)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17336.1",
+                        "display": "pT4:  Lymphoma extends beyond orbit to involve adjacent structures (e.g., bone, brain)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17337.1",
+                        "display": "pT4a: Involvement of nasopharynx",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17338.1",
+                        "display": "pT4b: Osseous involvement (including periosteum)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17339.1",
+                        "display": "pT4c: Involvement of maxillofacial, ethmoidal, and / or frontal sinuses",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17340.1",
+                        "display": "pT4d: Intracranial spread",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17341.1",
+                        "display": "Lymph Node Involvement  (pN)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17342.1",
+                        "display": "pNX: Involvement of lymph nodes not assessed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17343.1",
+                        "display": "pN0: No evidence of lymph node involvement",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17344.1",
+                        "display": "pN1: Involvement of ipsilateral regional lymph nodes (preauricular / parotid, submandibular, or cervical)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17345.1",
+                        "display": "pN2: Involvement of contralateral or bilateral regional lymph nodes (preauricular / parotid, submandibular, or cervical)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17346.1",
+                        "display": "pN3: Involvement of peripheral lymph nodes not draining ocular adnexal region",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17347.1",
+                        "display": "pN4: Involvement of central lymph nodes",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "10349.1",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "10350.1",
+                        "display": "No nodes submitted or found",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "10351.1",
+                        "display": "Number of Lymph Nodes Examined",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "10352.1",
+                        "display": "Specify",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "10353.1",
+                        "display": "Number cannot be determined (explain)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "10354.1",
+                        "display": "Number of Lymph Nodes Involved",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "10409.1",
+                        "display": "Specify",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "10431.1",
+                        "display": "Number cannot be determined (explain)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17318.1",
+                        "display": "Distant Metastasis (pM)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17319.1",
+                        "display": "Not applicable",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17320.1",
+                        "display": "pM1a:  Non-contiguous involvement of tissues or organs external to the ocular adnexa (e.g., salivary glands, lung, liver)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17317.1",
+                        "display": "Specify Site(s), if known",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17322.1",
+                        "display": "pM1b:  Bone marrow involvement",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17321.1",
+                        "display": "pM1c:  Both pM1a and pM1b involvement",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17670.1",
+                        "display": "ADDITIONAL FINDINGS",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17310.1",
+                        "display": "Additional Pathologic Findings (Specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17311.1",
+                        "display": "Comment(s)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }

@@ -1,0 +1,1330 @@
+[
+    {
+        "resourceType": "ConceptMap",
+        "status": "draft",
+        "name": "Prostate.TURP",
+        "title": "Prostate.TURP",
+        "experimental": true,
+        "date": "2022-04-19",
+        "publisher": "College of American Pathologists",
+        "contact": [
+            {
+                "telecom": [
+                    {
+                        "system": "email",
+                        "value": "agoel@cap.org"
+                    }
+                ]
+            }
+        ],
+        "description": "mapping of SNOMED to CAP CKeys",
+        "purpose": "mapping of SNOMED to CAP CKeys",
+        "copyright": "College of American Pathologists 2022",
+        "group": [
+            {
+                "source": "http://cap.org/eCC",
+                "target": "http://snomed.info/sct",
+                "element": [
+                    {
+                        "code": "42062.1",
+                        "display": "This template is recommended for reporting TURP specimens, but is not required for accreditation purposes.",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "5836.100004",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16914.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16915.1",
+                        "display": "Prostate",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17119.1",
+                        "display": "SPECIMEN",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16916.1",
+                        "display": "Procedure",
+                        "target": [
+                            {
+                                "code": "2620001000004108 |Specimen collection procedure (observable entity)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16917.1",
+                        "display": "Transurethral resection of the prostate (TURP)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16919.1",
+                        "display": "Enucleation (simple or subtotal prostatectomy)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16921.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16922.1",
+                        "display": "Not specified",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17120.1",
+                        "display": "TUMOR",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "53195.1",
+                        "display": "Histologic Type",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "40264.1",
+                        "display": "Acinar adenocarcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "43596.1",
+                        "display": "Ductal adenocarcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "55939.1",
+                        "display": "Small-cell neuroendocrine carcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "45183.1",
+                        "display": "Isolated intraductal carcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "40556.1",
+                        "display": "Other histologic type not listed (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "380222.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "42517.1",
+                        "display": "Histologic Type Comment",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "3868.100004",
+                        "display": "Histologic Grade",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "58768.1",
+                        "display": "Grade",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "46766.1",
+                        "display": "Not applicable",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "50341.1",
+                        "display": "Cannot be assessed",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "43202.1",
+                        "display": "Grade group 1 (Gleason Score 3 + 3 = 6)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "54609.1",
+                        "display": "Grade group 2 (Gleason Score 3 + 4 = 7)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378653.1",
+                        "display": "Percentage of Pattern 4",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378654.1",
+                        "display": "Less than or equal to 5%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378655.1",
+                        "display": "6 - 10%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378656.1",
+                        "display": "11 - 20%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378657.1",
+                        "display": "21 - 30%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "380131.1",
+                        "display": "31 - 40%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378658.1",
+                        "display": "Greater than 40%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "48758.1",
+                        "display": "Grade group 3 (Gleason Score 4 + 3 = 7)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378665.1",
+                        "display": "Percentage of Pattern 4",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378672.1",
+                        "display": "Less than 61%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378673.1",
+                        "display": "61 - 70%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378674.1",
+                        "display": "71 - 80%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378675.1",
+                        "display": "81 - 90%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378676.1",
+                        "display": "Greater than 90%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "37443.1",
+                        "display": "Grade group 4 (Gleason Score 4 + 4 = 8)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "51798.1",
+                        "display": "Grade group 4 (Gleason Score 3 + 5 = 8)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "47885.1",
+                        "display": "Grade group 4 (Gleason Score 5 + 3 = 8)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "40746.1",
+                        "display": "Grade group 5 (Gleason Score 4 + 5 = 9)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "52153.1",
+                        "display": "Grade group 5 (Gleason Score 5 + 4 = 9)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "41974.1",
+                        "display": "Grade group 5 (Gleason Score 5 + 5 = 10)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "59374.1",
+                        "display": "If Gleason Score is Greater Than 7 Specify Percentage of Pattern 4",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38790.1",
+                        "display": "If Gleason Score is Greater Than 7 Specify Percentage of Pattern 5",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "59082.1",
+                        "display": "Intraductal Carcinoma (IDC)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "59915.1",
+                        "display": "Not identified",
+                        "target": [
+                            {
+                                "code": "47492008 |Not seen (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "45408.1",
+                        "display": "Present",
+                        "target": [
+                            {
+                                "code": "52101004 |Present (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365287.1",
+                        "display": "IDC Incorporated into Grade",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365288.1",
+                        "display": "Yes",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365289.1",
+                        "display": "No",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "39458.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365290.1",
+                        "display": "?Cribriform Glands (applicable to Gleason score 7 or 8 cancer only)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365291.1",
+                        "display": "?Not applicable",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365292.1",
+                        "display": "Not identified",
+                        "target": [
+                            {
+                                "code": "47492008 |Not seen (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365293.1",
+                        "display": "Present",
+                        "target": [
+                            {
+                                "code": "52101004 |Present (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365294.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "50925.1",
+                        "display": "Treatment Effect",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "40391.1",
+                        "display": "No known presurgical therapy",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "44828.1",
+                        "display": "Not identified",
+                        "target": [
+                            {
+                                "code": "47492008 |Not seen (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "49986.1",
+                        "display": "Radiation therapy effect present",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "46843.1",
+                        "display": "Hormonal therapy effect present",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "47284.1",
+                        "display": "Other therapy effect(s) present (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "40162.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378694.1",
+                        "display": "TUMOR QUANTITATION",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22091.1",
+                        "display": "Tumor Quantitation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16947.1",
+                        "display": "For TURP Specimens",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378679.1",
+                        "display": "Estimated Percentage of Prostate Involved by Tumor",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "396259.1",
+                        "display": "Less than 1%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378680.1",
+                        "display": "1 - 5%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378681.1",
+                        "display": "6 - 10%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378682.1",
+                        "display": "11 - 20%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378683.1",
+                        "display": "21 - 30%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378684.1",
+                        "display": "31 - 40%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378685.1",
+                        "display": "41 - 50%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378686.1",
+                        "display": "51 - 60%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378687.1",
+                        "display": "61 - 70%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378688.1",
+                        "display": "71 - 80%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378689.1",
+                        "display": "81 - 90%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378690.1",
+                        "display": "Greater than 90%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378696.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16952.1",
+                        "display": "Number of Positive Chips",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16953.1",
+                        "display": "Total Number of Chips",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16954.1",
+                        "display": "For Enucleation and Other Specimens",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "46473.1",
+                        "display": "?Greatest Dimension of Dominant Nodule in Millimeters (mm) (if present)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "52722.1",
+                        "display": "Additional Dimension of Dominant Nodule in Millimeters (mm)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "50578.1",
+                        "display": "Additional Dimension of Dominant Nodule in Millimeters (mm)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "42656.1",
+                        "display": "Estimated Percentage of Prostatic Tissue Involved by Tumor",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "380173.1",
+                        "display": "?Periprostatic Fat Invasion (report if identified in specimen)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16961.1",
+                        "display": "?Not identified",
+                        "target": [
+                            {
+                                "code": "47492008 |Not seen (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16962.1",
+                        "display": "Present",
+                        "target": [
+                            {
+                                "code": "52101004 |Present (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "380174.1",
+                        "display": "Equivocal (explain)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "380175.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "380176.1",
+                        "display": "?Seminal Vesicle Invasion (report if identified in specimen)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16964.1",
+                        "display": "?Not identified",
+                        "target": [
+                            {
+                                "code": "47492008 |Not seen (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16965.1",
+                        "display": "Present",
+                        "target": [
+                            {
+                                "code": "52101004 |Present (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "380177.1",
+                        "display": "Equivocal (explain)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "380178.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16969.1",
+                        "display": "Lymphovascular Invasion",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16970.1",
+                        "display": "Not identified",
+                        "target": [
+                            {
+                                "code": "47492008 |Not seen (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16971.1",
+                        "display": "Present",
+                        "target": [
+                            {
+                                "code": "52101004 |Present (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16972.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16966.1",
+                        "display": "Perineural Invasion",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16967.1",
+                        "display": "Not identified",
+                        "target": [
+                            {
+                                "code": "47492008 |Not seen (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16968.1",
+                        "display": "Present",
+                        "target": [
+                            {
+                                "code": "52101004 |Present (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17128.1",
+                        "display": "ADDITIONAL FINDINGS",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "381561.1",
+                        "display": "Additional Findings",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16974.1",
+                        "display": "None identified",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "381560.1",
+                        "display": "Atypical intraductal proliferation (AIP)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16975.1",
+                        "display": "High-grade prostatic intraepithelial neoplasia (PIN)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16976.1",
+                        "display": "Atypical adenomatous hyperplasia (adenosis)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16977.1",
+                        "display": "Nodular prostatic hyperplasia",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16978.1",
+                        "display": "Inflammation (specify type)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16979.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "381116.1",
+                        "display": "COMMENTS",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "16980.1",
+                        "display": "?Comment(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,923 @@
+[
+    {
+        "resourceType": "ConceptMap",
+        "status": "draft",
+        "name": "Skin.Melanoma.Bmk",
+        "title": "Skin.Melanoma.Bmk",
+        "experimental": true,
+        "date": "2022-04-19",
+        "publisher": "College of American Pathologists",
+        "contact": [
+            {
+                "telecom": [
+                    {
+                        "system": "email",
+                        "value": "agoel@cap.org"
+                    }
+                ]
+            }
+        ],
+        "description": "mapping of SNOMED to CAP CKeys",
+        "purpose": "mapping of SNOMED to CAP CKeys",
+        "copyright": "College of American Pathologists 2022",
+        "group": [
+            {
+                "source": "http://cap.org/eCC",
+                "target": "http://snomed.info/sct",
+                "element": [
+                    {
+                        "code": "72911.1",
+                        "display": "Completion of the template is the responsibility of the laboratory performing the biomarker testing and / or providing the interpretation. When both testing and interpretation are performed elsewhere (e.g.,\u00a0a reference laboratory), synoptic reporting of the results by the laboratory submitting the tissue for testing is also encouraged to ensure that all information is included in the patient\u2019s medical record and thus readily available to the treating clinical team.",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33167.1",
+                        "display": "Note: If a marker is tested by more than one method (e.g., polymerase chain reaction and immunohistochemistry), please document the additional result(s) and method(s) in the Comments section of the report.",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33129.1",
+                        "display": "Gene names should follow recommendations of The Human Genome Organisation (HUGO) Nomenclature Committee (www.genenames.org; accessed February 10, 2015).",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33130.1",
+                        "display": "All reported gene sequence variations should be identified following the recommendations of the Human Genome Variation Society (www.hgvs.org/mutnomen/; accessed February 10, 2015).",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33125.1",
+                        "display": "RESULTS",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72913.1",
+                        "display": "BRAF Mutational Analysis (Note A)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72914.1",
+                        "display": "No mutations detected",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72915.1",
+                        "display": "BRAF V600E (c.1799T>A) mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72916.1",
+                        "display": "BRAF V600K (c.1798_1799GT>AA) mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72917.1",
+                        "display": "BRAF V600R (c.1798_1799GT>AG) mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72918.1",
+                        "display": "BRAF V600D (c.1799_1800TG>AT) mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72919.1",
+                        "display": "Other BRAF mutation (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72920.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72921.1",
+                        "display": "NRAS Mutational Analysis (Note B)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72922.1",
+                        "display": "No mutations detected",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72923.1",
+                        "display": "NRAS Q61R (c.182A>G) mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72924.1",
+                        "display": "NRAS Q61K (c.181C>A) mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72925.1",
+                        "display": "NRAS Q61L (c.182A>T) mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72926.1",
+                        "display": "NRAS Q61H (c.183A>T) mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72927.1",
+                        "display": "NRAS G12R (c.34G>C) mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72928.1",
+                        "display": "NRAS G12S (c.34G>A) mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72929.1",
+                        "display": "NRAS G12D (c.35G>A) mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72930.1",
+                        "display": "NRAS G12V (c.35G>T) mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72931.1",
+                        "display": "NRAS G13R (c.37G>C) mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72932.1",
+                        "display": "NRAS G13S (c.37G>A) mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72933.1",
+                        "display": "Other NRAS mutation (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72934.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72935.1",
+                        "display": "KIT Mutational Analysis (Note C)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72936.1",
+                        "display": "No mutations detected",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72937.1",
+                        "display": "KIT L576P (c.1727T>C) mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72938.1",
+                        "display": "KIT K642E (c.1924A>G) mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72939.1",
+                        "display": "KIT V559A (c.1676T>C) mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72940.1",
+                        "display": "KIT W557R (c.1669T>A) mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72941.1",
+                        "display": "Other KIT mutation (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72942.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72943.1",
+                        "display": "Other Markers Tested (repeat as needed)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72944.1",
+                        "display": "Specify Other Marker",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72945.1",
+                        "display": "Specify Results",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72912.1",
+                        "display": "METHODS",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72947.1",
+                        "display": "BRAF Mutational Analysis Testing Method",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72949.1",
+                        "display": "Cobas 4800 BRAF V600 mutation test",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72950.1",
+                        "display": "THxID BRAF assay",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72951.1",
+                        "display": "Allele-specific / real time polymerase chain reaction",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72952.1",
+                        "display": "Direct Sanger sequencing",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72953.1",
+                        "display": "Pyrosequencing",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72954.1",
+                        "display": "SnapShot",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72955.1",
+                        "display": "Mass spectrophotometry genotyping (Sequenom)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72956.1",
+                        "display": "Next-generation sequencing",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33126.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33127.1",
+                        "display": "Amplicon",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33166.1",
+                        "display": "Hybrid capture",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72957.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33128.1",
+                        "display": "Note: Assay sensitivity should be defined as lowest acceptable tumor percentage in a sample according to the pathologist's estimate.",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72948.1",
+                        "display": "BRAF Assay Sensitivity (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72959.1",
+                        "display": "NRAS Mutational Analysis Testing Method",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72961.1",
+                        "display": "Direct Sanger sequencing",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72962.1",
+                        "display": "Pyrosequencing",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72963.1",
+                        "display": "SnapShot",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72964.1",
+                        "display": "Mass spectrophotometry genotyping (Sequenom)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72965.1",
+                        "display": "Next-generation sequencing",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33168.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33169.1",
+                        "display": "Amplicon",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33170.1",
+                        "display": "Hybrid capture",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72966.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72958.1",
+                        "display": "Note: Assay sensitivity should be defined as lowest acceptable tumor percentage in a sample according to the pathologist's estimate.",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72960.1",
+                        "display": "NRAS Assay Sensitivity (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72968.1",
+                        "display": "KIT Mutational Analysis Testing Method",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72970.1",
+                        "display": "Direct Sanger sequencing",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72971.1",
+                        "display": "SnapShot",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72972.1",
+                        "display": "Mass spectrophotometry genotyping (Sequenom)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72973.1",
+                        "display": "Next-generation sequencing",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33171.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33172.1",
+                        "display": "Amplicon",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33173.1",
+                        "display": "Hybrid capture",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72974.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72967.1",
+                        "display": "Note: Assay sensitivity should be defined as lowest acceptable tumor percentage in a sample according to the pathologist's estimate.",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72969.1",
+                        "display": "KIT Assay Sensitivity (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72976.1",
+                        "display": "Testing Method for Other Markers (repeat as needed)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72977.1",
+                        "display": "Specify Other Marker",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33165.1",
+                        "display": "Specify Method",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "72978.1",
+                        "display": "Comment(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

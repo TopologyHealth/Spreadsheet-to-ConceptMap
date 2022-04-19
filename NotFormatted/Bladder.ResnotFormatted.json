@@ -1,0 +1,3222 @@
+[
+    {
+        "resourceType": "ConceptMap",
+        "status": "draft",
+        "name": "Bladder.Res",
+        "title": "Bladder.Res",
+        "experimental": true,
+        "date": "2022-04-19",
+        "publisher": "College of American Pathologists",
+        "contact": [
+            {
+                "telecom": [
+                    {
+                        "system": "email",
+                        "value": "agoel@cap.org"
+                    }
+                ]
+            }
+        ],
+        "description": "mapping of SNOMED to CAP CKeys",
+        "purpose": "mapping of SNOMED to CAP CKeys",
+        "copyright": "College of American Pathologists 2022",
+        "group": [
+            {
+                "source": "http://cap.org/eCC",
+                "target": "http://snomed.info/sct",
+                "element": [
+                    {
+                        "code": "53701.1",
+                        "display": "This protocol is recommended for reporting noninvasive urothelial tumors (papillary and flat), but it is not required for accreditation purposes.",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "18110.1",
+                        "display": "SPECIMEN",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "55410.1",
+                        "display": "Procedure",
+                        "target": [
+                            {
+                                "code": "2620001000004108 |Specimen collection procedure (observable entity)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13599.1",
+                        "display": "Partial cystectomy",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "52370.1",
+                        "display": "Radical cystectomy (total cystectomy)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13602.1",
+                        "display": "Radical cystoprostatectomy",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13603.1",
+                        "display": "Anterior exenteration",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13604.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "52672.1",
+                        "display": "Not specified",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "18111.1",
+                        "display": "TUMOR",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13606.1",
+                        "display": "Tumor Site",
+                        "target": [
+                            {
+                                "code": "399687005 |Anatomic location of primary malignant neoplasm (observable entity)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13636.1",
+                        "display": "Trigone",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13638.1",
+                        "display": "Right lateral wall",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13664.1",
+                        "display": "Left lateral wall",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13703.1",
+                        "display": "Anterior wall",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13738.1",
+                        "display": "Posterior wall",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13739.1",
+                        "display": "Dome",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13740.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13741.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38404.1",
+                        "display": "Histologic Type",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38405.1",
+                        "display": "Urothelial",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "54753.1",
+                        "display": "Papillary urothelial carcinoma, noninvasive",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "57521.1",
+                        "display": "Papillary urothelial carcinoma, invasive",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27387.1",
+                        "display": "Urothelial carcinoma in situ",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13763.1",
+                        "display": "Urothelial carcinoma, invasive",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38433.1",
+                        "display": "Urothelial carcinoma, nested (including large nested) variant",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38412.1",
+                        "display": "Urothelial carcinoma, microcystic variant",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38651.1",
+                        "display": "Urothelial carcinoma, micropapillary variant",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38434.1",
+                        "display": "Urothelial carcinoma, lymphoepithelioma-like variant",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38413.1",
+                        "display": "Urothelial carcinoma, plasmacytoid / signet ring cell / diffuse",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38418.1",
+                        "display": "Urothelial carcinoma, sarcomatoid variant",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38419.1",
+                        "display": "Urothelial carcinoma, giant cell variant",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38656.1",
+                        "display": "Urothelial carcinoma, poorly differentiated variant",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38439.1",
+                        "display": "Urothelial carcinoma, lipid-rich variant",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38440.1",
+                        "display": "Urothelial carcinoma, clear cell variant",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13764.1",
+                        "display": "Urothelial carcinoma with squamous differentiation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379760.1",
+                        "display": "Percentage of Squamous Differentiation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379761.1",
+                        "display": "Specify percentage",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379762.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379763.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13765.1",
+                        "display": "Urothelial carcinoma with glandular differentiation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379764.1",
+                        "display": "Percentage of Glandular Differentiation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379765.1",
+                        "display": "Specify percentage",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379766.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379767.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38441.1",
+                        "display": "Urothelial carcinoma with trophoblastic differentiation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379795.1",
+                        "display": "Percentage of Trophoblastic Differentiation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379796.1",
+                        "display": "Specify percentage",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379797.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379798.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38657.1",
+                        "display": "Urothelial carcinoma with M\u00fcllerian differentiation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379799.1",
+                        "display": "Percentage of M\u00fcllerian Differentiation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379800.1",
+                        "display": "Specify percentage",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379801.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379802.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38442.1",
+                        "display": "Squamous",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38658.1",
+                        "display": "Squamous cell carcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38437.1",
+                        "display": "Verrucous carcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27388.1",
+                        "display": "Squamous cell carcinoma in situ (no invasive carcinoma identified)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38438.1",
+                        "display": "Glandular",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38450.1",
+                        "display": "Adenocarcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38654.1",
+                        "display": "Adenocarcinoma, enteric",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38444.1",
+                        "display": "Adenocarcinoma, mucinous",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38449.1",
+                        "display": "Adenocarcinoma, mixed",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27389.1",
+                        "display": "Adenocarcinoma in situ (no invasive carcinoma identified)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38893.1",
+                        "display": "Tumors of M\u00fcllerian type",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38894.1",
+                        "display": "Clear cell carcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38899.1",
+                        "display": "Endometrioid carcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38855.1",
+                        "display": "Neuroendocrine Tumors",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38882.1",
+                        "display": "Small cell neuroendocrine carcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379803.1",
+                        "display": "Percentage of Small Cell Neuroendocrine Component",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379804.1",
+                        "display": "Specify percentage",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379805.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379806.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "39087.1",
+                        "display": "Large cell neuroendocrine carcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379811.1",
+                        "display": "Percentage of Large Cell Neuroendocrine Component",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379812.1",
+                        "display": "Specify percentage",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379813.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379814.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38891.1",
+                        "display": "Well-differentiated neuroendocrine tumor",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379816.1",
+                        "display": "Percentage of Well-differentiated Neuroendocrine Component",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379817.1",
+                        "display": "Specify percentage",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379818.1",
+                        "display": "(Other specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379819.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27400.1",
+                        "display": "Other histologic type not listed (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38861.1",
+                        "display": "Histologic Type Comment",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "49057.1",
+                        "display": "Histologic Grade",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "44620.1",
+                        "display": "For urothelial carcinoma, other variants, or divergent differentiation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14020.1",
+                        "display": "Low-grade",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14021.1",
+                        "display": "High-grade",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "55294.1",
+                        "display": "For squamous cell carcinoma or adenocarcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14030.1",
+                        "display": "G1, well-differentiated",
+                        "target": [
+                            {
+                                "code": "1155701009 |G1: Well differentiated histologic grade (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14031.1",
+                        "display": "G2, moderately differentiated",
+                        "target": [
+                            {
+                                "code": "1155703007 |G2: Moderately differentiated histologic grade (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14032.1",
+                        "display": "G3, poorly differentiated",
+                        "target": [
+                            {
+                                "code": "1155704001 |G3: Poorly differentiated histologic grade (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14029.1",
+                        "display": "GX, cannot be assessed",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378525.1",
+                        "display": "Other",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "51092.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "59623.1",
+                        "display": "Cannot be assessed",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "21575.1",
+                        "display": "Not applicable",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13742.1",
+                        "display": "Tumor Size",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13744.1",
+                        "display": "Greatest dimension in Centimeters (cm)",
+                        "target": [
+                            {
+                                "code": "200001000004104 |Greatest length dimension of excised primary malignant neoplasm (observable entity)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13747.1",
+                        "display": "Additional Dimension in Centimeters (cm)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13745.1",
+                        "display": "Additional Dimension in Centimeters (cm)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13743.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "381454.1",
+                        "display": "Tumor Extent",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27480.1",
+                        "display": "Noninvasive papillary carcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27481.1",
+                        "display": "Urothelial carcinoma in situ",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27482.1",
+                        "display": "Invades lamina propria (subepithelial connective tissue)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27485.1",
+                        "display": "Invades superficial muscularis propria (inner half)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27486.1",
+                        "display": "Invades deep muscularis propria (outer half)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27491.1",
+                        "display": "Invades perivesical soft tissue microscopically",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27492.1",
+                        "display": "Invades perivesical soft tissue macroscopically (extravesical mass)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27488.1",
+                        "display": "Invades adjacent structure(s)#",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38902.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38907.1",
+                        "display": "Prostate (transmural invasion from the bladder tumor) (Note D, Fig. 1)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14249.1",
+                        "display": "Seminal vesicles",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27493.1",
+                        "display": "Uterus",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14253.1",
+                        "display": "Vagina",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27494.1",
+                        "display": "Adnexa",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27495.1",
+                        "display": "Pelvis wall",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27496.1",
+                        "display": "Abdominal wall",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14247.1",
+                        "display": "Rectum",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14290.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27478.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27479.1",
+                        "display": "No evidence of primary tumor",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "47517.1",
+                        "display": "# Use the Urethral checklist for tumors that involve the urethral mucosa without invasion, tumors that involve the urethral mucosa with invasion of subepithelial connective tissue / prostate stroma, or tumors that involve prostatic ducts and acini with or without stromal invasion.",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14232.1",
+                        "display": "Lymphovascular Invasion",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14233.1",
+                        "display": "Not identified",
+                        "target": [
+                            {
+                                "code": "47492008 |Not seen (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14234.1",
+                        "display": "Present",
+                        "target": [
+                            {
+                                "code": "52101004 |Present (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14243.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14034.1",
+                        "display": "Tumor Configuration",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14035.1",
+                        "display": "Papillary",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14036.1",
+                        "display": "Solid / nodule",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14037.1",
+                        "display": "Flat",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14038.1",
+                        "display": "Ulcerated",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14041.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "21048.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379570.1",
+                        "display": "Tumor Comment",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "18113.1",
+                        "display": "MARGINS",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27460.1",
+                        "display": "# For partial cystectomies, if the specimen is received unoriented precluding identification of specific margins, it should be denoted here.",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365846.1",
+                        "display": "Margin Status for Invasive Tumor",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365847.1",
+                        "display": "All margins negative for invasive tumor",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365852.1",
+                        "display": "Closest Margin(s) to Invasive tumor",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365853.1",
+                        "display": "Right ureteral",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365854.1",
+                        "display": "Left ureteral",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359367.1",
+                        "display": "Urethral",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365844.1",
+                        "display": "Soft tissue",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365855.1",
+                        "display": "Other margin(s) (specify)#",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365857.1",
+                        "display": "Distance from Invasive Tumor to Closest Margin ",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365861.1",
+                        "display": "Specify in Millimeters (mm)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365862.1",
+                        "display": "Exact distance",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365859.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365860.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365848.1",
+                        "display": "Invasive tumor present at margin",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365872.1",
+                        "display": "Margin(s) Involved by Invasive Tumor",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38916.1",
+                        "display": "Right ureteral",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38917.1",
+                        "display": "Left ureteral",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38918.1",
+                        "display": "Urethral",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38919.1",
+                        "display": "Soft tissue",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27178.1",
+                        "display": "Other margin(s) (specify)#",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365849.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365850.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365851.1",
+                        "display": "Not applicable",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365882.1",
+                        "display": "Margin Status for Carcinoma in situ / Noninvasive Papillary Urothelial Carcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365868.1",
+                        "display": "Non-invasive tumors include flat urothelial carcinoma in situ and non-invasive papillary urothelial carcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365883.1",
+                        "display": "All margins negative for carcinoma in situ / noninvasive papillary urothelial carcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365888.1",
+                        "display": "Closest Margin(s) to Carcinoma in situ / Noninvasive Papillary Urothelial Carcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365881.1",
+                        "display": "Right ureteral",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365900.1",
+                        "display": "Left ureteral",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365880.1",
+                        "display": "Urethral",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365889.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365890.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365884.1",
+                        "display": "Carcinoma in situ / noninvasive papillary urothelial carcinoma present at margin",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365902.1",
+                        "display": "Margin(s) Involved by Carcinoma in situ / Noninvasive Papillary Urothelial Carcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359365.1",
+                        "display": "Right ureteral",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359375.1",
+                        "display": "Left ureteral",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359370.1",
+                        "display": "Urethral",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365875.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365876.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365885.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365886.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365887.1",
+                        "display": "Not applicable",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "365903.1",
+                        "display": "Margin Comment",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38951.1",
+                        "display": "REGIONAL LYMPH NODES",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "374347.1",
+                        "display": "Regional Lymph Node Status",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14353.1",
+                        "display": "Not applicable (no regional lymph nodes submitted or found)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "374348.1",
+                        "display": "Regional lymph nodes present",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359376.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359377.1",
+                        "display": "All regional lymph nodes negative for tumor",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359378.1",
+                        "display": "Tumor present in regional lymph node(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14357.1",
+                        "display": "Number of Lymph Nodes with Tumor",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14359.1",
+                        "display": "Exact number (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38887.1",
+                        "display": "At least (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359391.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14362.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359381.1",
+                        "display": "Size of Largest Nodal Metastatic Deposit",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359382.1",
+                        "display": "Specify in Centimeters (cm)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "53638.1",
+                        "display": "Exact size",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "47472.1",
+                        "display": "At least",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359383.1",
+                        "display": "Greater than",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359384.1",
+                        "display": "Less than",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359385.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "59709.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "56983.1",
+                        "display": "Nodal Site with Largest Metastatic Deposit (specify site)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359386.1",
+                        "display": "Size of Largest Lymph Node with Tumor",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359387.1",
+                        "display": "Specify in Centimeters (cm)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36866.1",
+                        "display": "Exact size",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "56726.1",
+                        "display": "At least",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359388.1",
+                        "display": "Greater than",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359389.1",
+                        "display": "Less than",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359390.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "45522.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "53986.1",
+                        "display": "Largest Lymph Node with Tumor (specify site)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38959.1",
+                        "display": "Extranodal Extension (ENE)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38960.1",
+                        "display": "Not identified",
+                        "target": [
+                            {
+                                "code": "47492008 |Not seen (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38966.1",
+                        "display": "Present",
+                        "target": [
+                            {
+                                "code": "52101004 |Present (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38967.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359379.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359380.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14354.1",
+                        "display": "Number of Lymph Nodes Examined",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14355.1",
+                        "display": "Exact number (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38952.1",
+                        "display": "At least (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "359392.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14356.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "364930.1",
+                        "display": "Regional Lymph Node Comment",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "380214.1",
+                        "display": "DISTANT METASTASIS",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "380215.1",
+                        "display": "?Distant Site(s) Involved, if applicable#",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "380218.1",
+                        "display": "?Not applicable",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "380219.1",
+                        "display": "Non-regional lymph node(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "380216.1",
+                        "display": "Other site(s), excluding non-regional lymph nodes (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "380217.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "18118.1",
+                        "display": "PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th Edition)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "52653.1",
+                        "display": "Reporting of pT, pN, and (when applicable) pM categories is based on information available to the pathologist at the time the report is issued. As per the AJCC (Chapter 1, 8th Ed.) it is the managing physician\u2019s responsibility to establish the final pathologic stage based upon all pertinent information, including but potentially not limited to this pathology report.",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "21050.1",
+                        "display": "?TNM Descriptors",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "1447.100004",
+                        "display": "?Not applicable",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "21021.1",
+                        "display": "m (multiple primary tumors)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "21052.1",
+                        "display": "r (recurrent)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "21053.1",
+                        "display": "y (post-treatment)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "327772.1",
+                        "display": "pT Category",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "327773.1",
+                        "display": "pT not assigned (cannot be determined based on available pathological information)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14045.1",
+                        "display": "pT0: No evidence of primary tumor",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14046.1",
+                        "display": "pTa: Non-invasive papillary carcinoma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14057.1",
+                        "display": "pTis: Urothelial carcinoma *in situ*: \u201cflat tumor\u201d",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14069.1",
+                        "display": "pT1: Tumor invades lamina propria (subepithelial connective tissue)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "53550.1",
+                        "display": "pT2: Tumor invades muscularis propria",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14073.1",
+                        "display": "pT2a: Tumor invades superficial muscularis propria (inner half)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14074.1",
+                        "display": "pT2b: Tumor invades deep muscularis propria (outer half)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "49113.1",
+                        "display": "pT2 (subcategory cannot be determined)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "57540.1",
+                        "display": "pT3: Tumor invades perivesical soft tissue",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14076.1",
+                        "display": "pT3a: Tumor invades perivesical soft tissue microscopically",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14077.1",
+                        "display": "pT3b: Tumor invades perivesical soft tissue macroscopically (extravesicular mass)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "54549.1",
+                        "display": "pT3 (subcategory cannot be determined)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "42143.1",
+                        "display": "pT4: Extravesical tumor directly invades any of the following: prostatic stroma, seminal vesicles, uterus, vagina, pelvic wall, abdominal wall",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "39066.1",
+                        "display": "pT4a: Extravesical tumor invades directly into prostatic stroma, uterus, or vagina",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "37982.1",
+                        "display": "pT4b: Extravesical tumor invades pelvic wall, abdominal wall",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "53381.1",
+                        "display": "pT4 (subcategory cannot be determined)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "327774.1",
+                        "display": "pN Category",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "327775.1",
+                        "display": "pN not assigned (no nodes submitted or found)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "327776.1",
+                        "display": "pN not assigned (cannot be determined based on available pathological information)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14083.1",
+                        "display": "pN0: No lymph node metastasis",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14084.1",
+                        "display": "pN1: Single regional lymph node metastasis in the true pelvis (perivesical, obturator, internal and external iliac, or sacral lymph node)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14085.1",
+                        "display": "pN2: Multiple regional lymph node metastasis in the true pelvis (perivesical, obturator, internal and external iliac, or sacral lymph node)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14086.1",
+                        "display": "pN3: Lymph node metastasis to the common iliac lymph nodes",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "58954.1",
+                        "display": "?pM Category (required only if confirmed pathologically)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "21051.1",
+                        "display": "?Not applicable - pM cannot be determined from the submitted specimen(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "58877.1",
+                        "display": "pM1: Distant metastasis",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "37992.1",
+                        "display": "pM1a: Distant metastasis limited to lymph nodes beyond the common iliacs",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "37993.1",
+                        "display": "pM1b: Non-lymph-node distant metastases",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "41161.1",
+                        "display": "pM1 (subcategory cannot be determined)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "18119.1",
+                        "display": "ADDITIONAL FINDINGS",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38863.1",
+                        "display": "Associated Epithelial Lesions",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13902.1",
+                        "display": "None identified",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13903.1",
+                        "display": "Urothelial papilloma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13904.1",
+                        "display": "Urothelial papilloma, inverted type",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13905.1",
+                        "display": "Papillary urothelial neoplasm, low malignant potential (PUNLMP)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38901.1",
+                        "display": "Urothelial proliferation of uncertain malignant potential",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38862.1",
+                        "display": "Urothelial dysplasia",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "380213.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13906.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "50312.1",
+                        "display": "Additional Findings",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "39286.1",
+                        "display": "Urothelial dysplasia",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17704.1",
+                        "display": "Adenocarcinoma of prostate (use checklist for carcinoma of prostate)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14296.1",
+                        "display": "Inflammation / regenerative changes",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14300.1",
+                        "display": "Therapy-related changes (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14305.1",
+                        "display": "Cystitis cystica et glandularis",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14318.1",
+                        "display": "Keratinizing squamous metaplasia",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14323.1",
+                        "display": "Intestinal metaplasia",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14324.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "381054.1",
+                        "display": "COMMENTS",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14325.1",
+                        "display": "?Comment(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

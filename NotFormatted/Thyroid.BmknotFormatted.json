@@ -1,0 +1,2793 @@
+[
+    {
+        "resourceType": "ConceptMap",
+        "status": "draft",
+        "name": "Thyroid.Bmk",
+        "title": "Thyroid.Bmk",
+        "experimental": true,
+        "date": "2022-04-19",
+        "publisher": "College of American Pathologists",
+        "contact": [
+            {
+                "telecom": [
+                    {
+                        "system": "email",
+                        "value": "agoel@cap.org"
+                    }
+                ]
+            }
+        ],
+        "description": "mapping of SNOMED to CAP CKeys",
+        "purpose": "mapping of SNOMED to CAP CKeys",
+        "copyright": "College of American Pathologists 2022",
+        "group": [
+            {
+                "source": "http://cap.org/eCC",
+                "target": "http://snomed.info/sct",
+                "element": [
+                    {
+                        "code": "36251.1",
+                        "display": "Completion of the template is the responsibility of the laboratory performing the biomarker testing and / or providing the interpretation. When both testing and interpretation are performed elsewhere (e.g., a reference laboratory), synoptic reporting of the results by the laboratory submitting the tissue for testing is also encouraged to ensure that all information is included in the patient\u2019s medical record and thus readily available to the treating clinical team.",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36252.1",
+                        "display": "Note: Fixative type, time to fixation (cold ischemia time), and time of fixation should be reported if applicable in this template or in the original pathology report (Note F).",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36253.1",
+                        "display": "Gene names should follow recommendations of The Human Genome Organisation (HUGO) Nomenclature Committee (www.genenames.org; accessed February 10, 2015).",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36254.1",
+                        "display": "All reported gene sequence variations should be identified following the recommendations of the Human Genome Variation Society (www.hgvs.org/mutnomen/; accessed February 10, 2015).",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36098.1",
+                        "display": "Note: If a marker is tested by more than one method (e.g., polymerase chain reaction and immunohistochemistry), please document the additional result(s) and method(s) in the Comments section of the report.",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35899.1",
+                        "display": "SPECIMEN",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35911.1",
+                        "display": "Adequacy Assessment of Thyroid Fine-Needle Aspirates (Note A)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35913.1",
+                        "display": "Adequate",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35915.1",
+                        "display": "Inadequate",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35909.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35917.1",
+                        "display": "Suboptimal (explain)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36202.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35901.1",
+                        "display": "Adequacy of Resected Specimens or Cell Blocks for Testing (Note A)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35903.1",
+                        "display": "Adequate",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35905.1",
+                        "display": "Estimated Percentage of Tumor Cellularity (area used for testing)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35907.1",
+                        "display": "Suboptimal (explain)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36215.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33154.1",
+                        "display": "RESULTS",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33181.1",
+                        "display": "BRAF Mutational Analysis (Note B)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33182.1",
+                        "display": "No mutation detected",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33183.1",
+                        "display": "Mutation identified",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33185.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33186.1",
+                        "display": "p.V600E, c.1799T>A",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33187.1",
+                        "display": "p.K601E, c.1801A>G",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33188.1",
+                        "display": "Other BRAF mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33189.1",
+                        "display": "Specify Mutation",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33190.1",
+                        "display": "Indicate Mutant Allele Frequency",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "33184.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35342.1",
+                        "display": "TERT Mutational Analysis (Note B)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35750.1",
+                        "display": "No mutation detected",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35752.1",
+                        "display": "Mutation identified",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35753.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35754.1",
+                        "display": "c.1-124 (C228T)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35755.1",
+                        "display": "c.1-146 (C250T)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35756.1",
+                        "display": "Other TERT mutation (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36041.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36042.1",
+                        "display": "NRAS Mutational Analysis (Note C)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36043.1",
+                        "display": "No mutation detected",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36044.1",
+                        "display": "Mutation identified",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36045.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36046.1",
+                        "display": "p.Q61R, c.182A>G",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36047.1",
+                        "display": "p.Q61K, c.181C>A",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36048.1",
+                        "display": "Other NRAS mutation (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36051.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36148.1",
+                        "display": "NRAS Codons Assessed",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36155.1",
+                        "display": "12",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36156.1",
+                        "display": "13",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36157.1",
+                        "display": "61",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36158.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36052.1",
+                        "display": "HRAS Mutational Analysis (Note C)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36053.1",
+                        "display": "No mutation detected",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36054.1",
+                        "display": "Mutation identified",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36055.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36056.1",
+                        "display": "p.Q61R, c.182A>G",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36057.1",
+                        "display": "p.G12V, c.35G>T",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36058.1",
+                        "display": "Other HRAS mutation (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36061.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36159.1",
+                        "display": "HRAS Codons Assessed",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36160.1",
+                        "display": "12",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36161.1",
+                        "display": "13",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36162.1",
+                        "display": "61",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36163.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36062.1",
+                        "display": "KRAS Mutational Analysis (Note C)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36063.1",
+                        "display": "No mutation detected",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36064.1",
+                        "display": "Mutation identified",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36065.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36066.1",
+                        "display": "p.G12D, c.35G>A",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36068.1",
+                        "display": "Other KRAS mutation (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36071.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36079.1",
+                        "display": "KRAS Codons Assessed",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36080.1",
+                        "display": "12",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36089.1",
+                        "display": "13",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36095.1",
+                        "display": "61",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36096.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36072.1",
+                        "display": "AKT1 Mutational Analysis (Note D)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36073.1",
+                        "display": "No mutation detected",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36074.1",
+                        "display": "Mutation identified",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36075.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36076.1",
+                        "display": "p.E17K, c.49G>A",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36078.1",
+                        "display": "Other AKT1 mutation (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36081.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36092.1",
+                        "display": "TP53 Mutational Analysis (Note D)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36093.1",
+                        "display": "No mutation detected",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36094.1",
+                        "display": "Mutation identified (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36101.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36102.1",
+                        "display": "PIK3CA Mutational Analysis (Note D)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36103.1",
+                        "display": "No mutation detected",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36104.1",
+                        "display": "Mutation identified",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36105.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36106.1",
+                        "display": "p.H1047R, c.3140A>G",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36108.1",
+                        "display": "Other PIK3CA mutation (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36111.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36112.1",
+                        "display": "CTNNB1 (beta-catenin) Mutational Analysis (Note E)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36113.1",
+                        "display": "No mutation detected",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36114.1",
+                        "display": "Mutation identified",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36115.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36116.1",
+                        "display": "p.S33A, c.97T>G",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36118.1",
+                        "display": "Other CTNNB1 mutation (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36121.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36167.1",
+                        "display": "RET (Note F)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36082.1",
+                        "display": "RET Mutational Analysis",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36083.1",
+                        "display": "No mutation detected",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36084.1",
+                        "display": "Mutation identified",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36085.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36086.1",
+                        "display": "p.M918T, c.2753T>C",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36088.1",
+                        "display": "Other RET mutation (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35774.1",
+                        "display": "Mutation Type",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36040.1",
+                        "display": "Germline (inherited)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36049.1",
+                        "display": "Somatic (sporadic)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36050.1",
+                        "display": "Unknown",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36091.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36123.1",
+                        "display": "RET Rearrangement",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36124.1",
+                        "display": "No rearrangement detected",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36125.1",
+                        "display": "Rearrangement identified",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36126.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36127.1",
+                        "display": "RET/PTC1",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36128.1",
+                        "display": "RET/PTC3",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36129.1",
+                        "display": "Other RET rearrangement (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36130.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36059.1",
+                        "display": "ALK Rearrangement (Note G)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36060.1",
+                        "display": "No rearrangement detected",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36067.1",
+                        "display": "Rearrangement identified",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36069.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36077.1",
+                        "display": "STRN/ALK",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36070.1",
+                        "display": "EML4/ALK",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36087.1",
+                        "display": "Other ALK rearrangement (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36090.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36131.1",
+                        "display": "NTRK1 Rearrangement (Note H)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36132.1",
+                        "display": "No rearrangement detected",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36133.1",
+                        "display": "Rearrangement identified",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36134.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36135.1",
+                        "display": "NTRK1/TPM3",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36136.1",
+                        "display": "NTRK1/TFG",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36137.1",
+                        "display": "Other NTRK1 rearrangement (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36138.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36100.1",
+                        "display": "NTRK3 Rearrangement (Note H)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36107.1",
+                        "display": "No rearrangement detected",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36109.1",
+                        "display": "Rearrangement identified",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36110.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36117.1",
+                        "display": "NTRK3/ETV6",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36120.1",
+                        "display": "Other NTRK3 rearrangement (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36122.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36139.1",
+                        "display": "PPAR gamma Rearrangement (Note I)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36140.1",
+                        "display": "No rearrangement detected",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36141.1",
+                        "display": "Rearrangement identified",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36142.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36143.1",
+                        "display": "PAX8/PPAR gamma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36144.1",
+                        "display": "CREB3L2/PPAR gamma",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36147.1",
+                        "display": "Other PPAR gamma rearrangement (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36149.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36151.1",
+                        "display": "Other Markers Tested (repeat as needed)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36152.1",
+                        "display": "Specify Other Marker",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36153.1",
+                        "display": "Specify Results",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36154.1",
+                        "display": "Specify Testing Method(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "34453.1",
+                        "display": "METHODS",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36174.1",
+                        "display": "Sequencing Type",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36097.1",
+                        "display": "Targeted panel sequencing (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36175.1",
+                        "display": "Whole genome sequencing (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36176.1",
+                        "display": "Whole exome sequencing (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36178.1",
+                        "display": "Dissection Method(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36179.1",
+                        "display": "Note: If more than 1 dissection method used, please specify which test was associated with each selected dissection method.",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36180.1",
+                        "display": "Laser capture microdissection (specify test name)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36186.1",
+                        "display": "Manual under microscopic observation (specify test name)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36187.1",
+                        "display": "Manual without microscopic observation (specify test name)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36188.1",
+                        "display": "Cored from block (specify test name)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36189.1",
+                        "display": "Whole tissue section (no tumor enrichment procedure employed) (specify test name)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36191.1",
+                        "display": "BRAF Mutational Analysis Testing Method(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36192.1",
+                        "display": "Direct Sanger sequencing",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36194.1",
+                        "display": "High-resolution melting analysis",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36193.1",
+                        "display": "Immunohistochemistry (IHC)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36195.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36196.1",
+                        "display": "VE1 clone",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36197.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36198.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36200.1",
+                        "display": "TERT Mutational Analysis Testing Method(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36201.1",
+                        "display": "Direct Sanger sequencing",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36203.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36204.1",
+                        "display": "NRAS Mutational Analysis Testing Method(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36205.1",
+                        "display": "Direct Sanger sequencing",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36206.1",
+                        "display": "High-resolution melting analysis",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36207.1",
+                        "display": "Immunohistochemistry (IHC) (specify clone)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36211.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36146.1",
+                        "display": "HRAS Mutational Analysis Testing Method(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36164.1",
+                        "display": "Direct Sanger sequencing",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36165.1",
+                        "display": "High-resolution melting analysis",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36166.1",
+                        "display": "Immunohistochemistry (IHC) (specify clone)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36170.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36172.1",
+                        "display": "KRAS Mutational Analysis Testing Method(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36463.1",
+                        "display": "Direct Sanger sequencing",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36464.1",
+                        "display": "High-resolution melting analysis",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36465.1",
+                        "display": "Immunohistochemistry (IHC) (specify clone)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36468.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36470.1",
+                        "display": "AKT1 Mutational Analysis Testing Method(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36471.1",
+                        "display": "Direct Sanger sequencing",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36472.1",
+                        "display": "High-resolution melting analysis",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36473.1",
+                        "display": "Immunohistochemistry (IHC) (specify clone)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36476.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36478.1",
+                        "display": "TP53 Mutational Analysis Testing Method(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36479.1",
+                        "display": "Direct Sanger sequencing",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36480.1",
+                        "display": "High-resolution melting analysis",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36481.1",
+                        "display": "Immunohistochemistry (IHC) (specify clone)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36484.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36486.1",
+                        "display": "PIK3CA Mutational Analysis Testing Method(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36487.1",
+                        "display": "Direct Sanger sequencing",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36488.1",
+                        "display": "High-resolution melting analysis",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36489.1",
+                        "display": "Immunohistochemistry (IHC) (specify clone)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36492.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36216.1",
+                        "display": "ALK Rearrangement Testing Method(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36217.1",
+                        "display": "In situ hybridization",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36218.1",
+                        "display": "Reverse transcriptase polymerase chain reaction (RT-PCR)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36220.1",
+                        "display": "Immunohistochemistry (IHC)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36221.1",
+                        "display": "",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36222.1",
+                        "display": "ALK 5A4 clone",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36223.1",
+                        "display": "ALK D5F3 clone",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36225.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36226.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36209.1",
+                        "display": "PPAR gamma Rearrangement Testing Method(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36212.1",
+                        "display": "In situ hybridization",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36213.1",
+                        "display": "Reverse transcriptase polymerase chain reaction (RT-PCR)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36214.1",
+                        "display": "Immunohistochemistry (IHC) (specify clone)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36229.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36230.1",
+                        "display": "RET/PTC1 Rearrangement Testing Method(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36231.1",
+                        "display": "In situ hybridization",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36232.1",
+                        "display": "Reverse transcriptase polymerase chain reaction (RT-PCR)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36233.1",
+                        "display": "Immunohistochemistry (IHC) (specify clone)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36238.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36494.1",
+                        "display": "RET/PTC3 Rearrangement Testing Method(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36495.1",
+                        "display": "In situ hybridization",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36496.1",
+                        "display": "Reverse transcriptase polymerase chain reaction (RT-PCR)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36497.1",
+                        "display": "Immunohistochemistry (IHC) (specify clone)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36500.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36502.1",
+                        "display": "NTRK1 Rearrangement Testing Method(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36503.1",
+                        "display": "In situ hybridization",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36504.1",
+                        "display": "Reverse transcriptase polymerase chain reaction (RT-PCR)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36505.1",
+                        "display": "Immunohistochemistry (IHC) (specify clone)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36508.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36510.1",
+                        "display": "NTRK3 Rearrangement Testing Method(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36511.1",
+                        "display": "In situ hybridization",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36512.1",
+                        "display": "Reverse transcriptase polymerase chain reaction (RT-PCR)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36513.1",
+                        "display": "Immunohistochemistry (IHC) (specify clone)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36516.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36239.1",
+                        "display": "CTNNB1 Mutational Analysis Testing Method(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36240.1",
+                        "display": "Direct Sanger sequencing",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36242.1",
+                        "display": "Immunohistochemistry (IHC) (specify clone)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36247.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36228.1",
+                        "display": "Sensitivity / Limit of Mutation Detection (Note A)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36235.1",
+                        "display": ">= 20%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36236.1",
+                        "display": ">= 10%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36241.1",
+                        "display": ">= 5%",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36244.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36245.1",
+                        "display": "Comment(s)",
+                        "target": [
+                            {
+                                "code": "",
+                                "display": "",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

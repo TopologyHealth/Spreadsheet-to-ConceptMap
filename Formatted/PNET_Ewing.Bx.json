@@ -1,0 +1,1016 @@
+    {
+        "resourceType": "ConceptMap",
+        "status": "draft",
+        "name": "PNET_Ewing.Bx",
+        "title": "PNET_Ewing.Bx",
+        "experimental": true,
+        "date": "2022-04-19",
+        "publisher": "College of American Pathologists",
+        "contact": [
+            {
+                "telecom": [
+                    {
+                        "system": "email",
+                        "value": "agoel@cap.org"
+                    }
+                ]
+            }
+        ],
+        "description": "mapping of SNOMED to CAP CKeys",
+        "purpose": "mapping of SNOMED to CAP CKeys",
+        "copyright": "College of American Pathologists 2022",
+        "group": [
+            {
+                "source": "http://cap.org/eCC",
+                "target": "http://snomed.info/sct",
+                "element": [
+                    {
+                        "code": "25013.1",
+                        "display": "Ewing sarcoma (ES) is a round cell sarcoma showing gene fusions involving one member of the FET family of genes (usually EWSR1) and a member of the ETS family of genes. This malignancy may occur children and adults in either bone or soft tissue sites, including unusual sites such as skin or leptomeninges. Because ES can occur in bone or soft tissue, AJCC / UICC staging systems for both are included.",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35965.1",
+                        "display": "First priority should always be given to formalin-fixed tissue for histomorphologic evaluation. Special studies (e.g., cytogenetics, fluorescence in situ hybridization [FISH], reverse transcriptase polymerase chain reaction [RT-PCR], and less commonly next-generation sequencing, whole genome and exome analyses) are critical to the molecular workup of ES and may require at least 100 mg of viable, fresh or snap-frozen tissue as the second priority for workup. Although molecular testing for FISH analysis of EWSR1 rearrangement or for RT-PCR analysis of EWSR1-FLI1, EWSR1-ERG, and other ES translocations may be performed on formalin-fixed paraffin-embedded tissue, every attempt should be made to procure fresh/snap-frozen tissue, as this may be a requirement for some treatment protocols.",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "59230.1",
+                        "display": "This protocol is based on the experience of the Children’s Oncology Group. For more information, contact The Children’s Oncology Group Biopathology Center. Phone: (614) 722-2890 or (800) 347-2486.",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22382.1",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22383.1",
+                        "display": "Histologic Type",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22384.1",
+                        "display": "Ewing Sarcoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "24054.1",
+                        "display": "SPECIMEN",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "24072.1",
+                        "display": "Procedure",
+                        "target": [
+                            {
+                                "code": "2620001000004108 |Specimen collection procedure (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "24076.1",
+                        "display": "Core needle biopsy",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "24074.1",
+                        "display": "Incisional biopsy",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "24077.1",
+                        "display": "Excisional biopsy",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "24078.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "24079.1",
+                        "display": "Not specified",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36417.1",
+                        "display": "TUMOR",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "15798.1",
+                        "display": "Tumor Site",
+                        "target": [
+                            {
+                                "code": "399687005 |Anatomic location of primary malignant neoplasm (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22329.1",
+                        "display": "Osseous",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22330.1",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22331.1",
+                        "display": "Long bones of upper limb, scapula and associated joints (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22332.1",
+                        "display": "Short bones of upper limb and associated joints (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22333.1",
+                        "display": "Long bones of lower limb and associated joints (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22358.1",
+                        "display": "Short bones of lower limb and associated joints (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22359.1",
+                        "display": "Overlapping lesion of bones, joints and articular cartilage of limbs (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22360.1",
+                        "display": "Bone of limb, NOS (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22367.1",
+                        "display": "Bones of skull and face and associated joints (excluding mandible C41.1) (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22368.1",
+                        "display": "Mandible (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22369.1",
+                        "display": "Vertebral column (excluding sacrum and coccyx C41.4) (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22373.1",
+                        "display": "Rib, sternum, clavicle and associated joints (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22374.1",
+                        "display": "Pelvic bones, sacrum, coccyx and associated joints (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22375.1",
+                        "display": "Overlapping lesion of bones, joints and articular cartilage (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22388.1",
+                        "display": "Bone, NOS",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22389.1",
+                        "display": "Extraosseous",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22390.1",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22403.1",
+                        "display": "Heart / mediastinum",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22428.1",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22444.1",
+                        "display": "Heart (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22451.1",
+                        "display": "Anterior mediastinum (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22456.1",
+                        "display": "Posterior mediastinum (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22457.1",
+                        "display": "Mediastinum, NOS",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22458.1",
+                        "display": "Overlapping lesion of heart, mediastinum and pleura (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14481.1",
+                        "display": "Peritoneum and / or retroperitoneum",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "37316.1",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "15773.1",
+                        "display": "Retroperitoneum",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "15775.1",
+                        "display": "Peritoneum, including omentum and mesentery (specify parts)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "15778.1",
+                        "display": "Peritoneum, NOS",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22505.1",
+                        "display": "Other soft tissue",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "37031.1",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22572.1",
+                        "display": "Head, face, and neck (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22573.1",
+                        "display": "Upper limb and shoulder (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22575.1",
+                        "display": "Lower limb and hip (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22576.1",
+                        "display": "Thorax (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22582.1",
+                        "display": "Abdomen (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22584.1",
+                        "display": "Pelvis (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22593.1",
+                        "display": "Trunk (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22600.1",
+                        "display": "Overlapping lesion (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22603.1",
+                        "display": "Other, NOS",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "23915.1",
+                        "display": "Not specified",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "23922.1",
+                        "display": "?Tumor Size (for excisional biopsy only)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "35920.1",
+                        "display": "?Not applicable",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "23924.1",
+                        "display": "Greatest dimension in Centimeters (cm)",
+                        "target": [
+                            {
+                                "code": "200001000004104 |Greatest length dimension of excised primary malignant neoplasm (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "23925.1",
+                        "display": "Additional Dimension in Centimeters (cm)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "23926.1",
+                        "display": "Additional Dimension in Centimeters (cm)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "23923.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "23995.1",
+                        "display": "Lymphovascular Invasion",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "23997.1",
+                        "display": "Not identified",
+                        "target": [
+                            {
+                                "code": "47492008 |Not seen (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "23996.1",
+                        "display": "Present",
+                        "target": [
+                            {
+                                "code": "52101004 |Present (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "23998.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "24057.1",
+                        "display": "MARGINS",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "23988.1",
+                        "display": "?Margin Status (for excisional biopsy only)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "27235.1",
+                        "display": "?Not applicable (not an excisional biopsy)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "23990.1",
+                        "display": "All margins negative for tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "353699.1",
+                        "display": "Closest Margin(s) to Tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "353702.1",
+                        "display": "Specify closest margin(s)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "353703.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "353704.1",
+                        "display": "Distance from Tumor to Closest Margin",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "353713.1",
+                        "display": "Specify in Centimeters (cm)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "353706.1",
+                        "display": "Exact distance",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "353715.1",
+                        "display": "Greater than",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "353711.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "353712.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "23993.1",
+                        "display": "Tumor present at margin",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22991.1",
+                        "display": "Margin(s) Involved by Tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22992.1",
+                        "display": "Specify involved margin(s)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "23552.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "23989.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "358977.1",
+                        "display": "Margin Comment",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "24059.1",
+                        "display": "SPECIAL STUDIES",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36382.1",
+                        "display": "Results of these studies may not be available at the time of the final report",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "38001.1",
+                        "display": "Immunohistochemistry (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "380152.1",
+                        "display": "Cytogenetic Findings",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36383.1",
+                        "display": "Not performed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36384.1",
+                        "display": "Pending",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36390.1",
+                        "display": "EWSR1 rearrangement, fusion partner not known",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36393.1",
+                        "display": "EWSR1-FLI1 gene rearrangement",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36394.1",
+                        "display": "EWSR1-ERG gene rearrangement",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "380154.1",
+                        "display": "Other EWSR1 gene rearrangement (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36385.1",
+                        "display": "Non-EWSR1 variant translocation (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36395.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36386.1",
+                        "display": "No rearrangement identified",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "374341.1",
+                        "display": "Not known",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36387.1",
+                        "display": "Method for Cytogenetic Studies",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36396.1",
+                        "display": "Conventional karyotyping",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36397.1",
+                        "display": "Fluorescent in situ hybridization (FISH)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36398.1",
+                        "display": "Reverse transcriptase polymerase chain reaction (RT-PCR)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "36399.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "374342.1",
+                        "display": "Not known",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "24063.1",
+                        "display": "ADDITIONAL FINDINGS",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "24094.1",
+                        "display": "Additional Findings (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "381113.1",
+                        "display": "COMMENTS",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "24001.1",
+                        "display": "?Comment(s)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }

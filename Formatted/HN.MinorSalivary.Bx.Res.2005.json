@@ -1,0 +1,2234 @@
+    {
+        "resourceType": "ConceptMap",
+        "status": "draft",
+        "name": "HN.MinorSalivary.Bx.Res.2005",
+        "title": "HN.MinorSalivary.Bx.Res.2005",
+        "experimental": true,
+        "date": "2022-04-19",
+        "publisher": "College of American Pathologists",
+        "contact": [
+            {
+                "telecom": [
+                    {
+                        "system": "email",
+                        "value": "agoel@cap.org"
+                    }
+                ]
+            }
+        ],
+        "description": "mapping of SNOMED to CAP CKeys",
+        "purpose": "mapping of SNOMED to CAP CKeys",
+        "copyright": "College of American Pathologists 2022",
+        "group": [
+            {
+                "source": "http://cap.org/eCC",
+                "target": "http://snomed.info/sct",
+                "element": [
+                    {
+                        "code": "48174.1",
+                        "display": "*Data elements with asterisks, or otherwise marked as optional, are not required for accreditation purposes for the Commission on Cancer. These elements may be clinically important, but are not yet validated or regularly used in patient management. Alternatively, the necessary data may not be available to the pathologist at the time of pathologic assessment of this specimen.",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13115.1",
+                        "display": "Note: Check 1 response unless otherwise indicated",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13116.1",
+                        "display": "MACROSCOPIC",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13117.1",
+                        "display": "SPECIMEN TYPE",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13118.1",
+                        "display": "Incisional biopsy",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13119.1",
+                        "display": "Excisional biopsy",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12944.1",
+                        "display": "Resection (specify type)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12946.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12947.1",
+                        "display": "Not specified",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12948.1",
+                        "display": "Tumor Site (check all that apply)",
+                        "target": [
+                            {
+                                "code": "399687005 |Anatomic location of primary malignant neoplasm (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12949.1",
+                        "display": "Lip",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12950.1",
+                        "display": "Oral cavity",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12951.1",
+                        "display": "Pharynx, oropharynx",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12952.1",
+                        "display": "Pharynx, hypopharynx",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12953.1",
+                        "display": "Pharynx, nasopharynx",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12954.1",
+                        "display": "Larynx, supraglottis",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12955.1",
+                        "display": "Larynx, glottis",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12956.1",
+                        "display": "Larynx, subglottis",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12957.1",
+                        "display": "Paranasal sinus(es), maxillary",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12958.1",
+                        "display": "Paranasal sinus(es), ethmoid",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12959.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12960.1",
+                        "display": "Not specified",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12961.1",
+                        "display": "TUMOR SIZE",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12965.1",
+                        "display": "Cannot be determined (see Comment)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12962.1",
+                        "display": "Greatest dimension (cm)",
+                        "target": [
+                            {
+                                "code": "200001000004104 |Greatest length dimension of excised primary malignant neoplasm (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12963.1",
+                        "display": "Additional dimension (cm)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12964.1",
+                        "display": "Additional dimension (cm)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12966.1",
+                        "display": "MICROSCOPIC",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12967.1",
+                        "display": "Tumor Site AND HISTOLOGIC TYPE",
+                        "target": [
+                            {
+                                "code": "399687005 |Anatomic location of primary malignant neoplasm (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12968.1",
+                        "display": "Tumor Site",
+                        "target": [
+                            {
+                                "code": "399687005 |Anatomic location of primary malignant neoplasm (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14401.1",
+                        "display": "Upper aerodigestive tract",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "48237.1",
+                        "display": "Carcinomas of the upper aerodigestive tract",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14396.1",
+                        "display": "Squamous Cell Carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12970.1",
+                        "display": "Squamous cell carcinoma, conventional",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12971.1",
+                        "display": "Squamous Cell Carcinoma, Variants",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12972.1",
+                        "display": "Verrucous carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12973.1",
+                        "display": "Spindle cell squamous carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12974.1",
+                        "display": "Adenosquamous carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12975.1",
+                        "display": "Basaloid squamous cell carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12976.1",
+                        "display": "Papillary squamous cell carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12969.1",
+                        "display": "Sinonasal Carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12979.1",
+                        "display": "Keratinizing sinonasal carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12980.1",
+                        "display": "Non-keratinizing sinonasal carcinoma (Transitional type)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12981.1",
+                        "display": "Sinonasal undifferentiated carcinoma (SNUC)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14394.1",
+                        "display": "Nasopharyngeal Carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12983.1",
+                        "display": "Keratinizing nasopharyngeal carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12984.1",
+                        "display": "Non-keratinizing nasopharyngeal carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12985.1",
+                        "display": "Non-keratinizing nasopharyngeal carcinoma, differentiated",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12986.1",
+                        "display": "Non-keratinizing nasopharyngeal carcinoma, undifferentiated (lymphoepithelioma)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12987.1",
+                        "display": "Non-keratinizing nasopharyngeal carcinoma, mixed differentiated and undifferentiated",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14395.1",
+                        "display": "Adenocarcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12988.1",
+                        "display": "Adenocarcinoma, salivary gland type (specify type)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12982.1",
+                        "display": "Adenocarcinoma, Non-salivary Gland Types",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12991.1",
+                        "display": "Papillary adenocarcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12992.1",
+                        "display": "Intestinal-type adenocarcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12993.1",
+                        "display": "Adenocarcinoma not otherwise specified (NOS), low grade",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12994.1",
+                        "display": "Adenocarcinoma NOS, intermediate grade",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12995.1",
+                        "display": "Adenocarcinoma NOS, high grade",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14397.1",
+                        "display": "Neuroendocrine Carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12997.1",
+                        "display": "Typical carcinoid tumor (well differentiated neuroendocrine carcinoma)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12998.1",
+                        "display": "Atypical carcinoid tumor (moderately differentiated neuroendocrine carcinoma)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12999.1",
+                        "display": "Small cell carcinoma (poorly differentiated neuroendocrine carcinoma)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14398.1",
+                        "display": "Other Histologic Types",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "12977.1",
+                        "display": "Lymphoepithelioma-like carcinoma (non-nasopharyngeal)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13000.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13001.1",
+                        "display": "Carcinoma, type cannot be determined",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14400.1",
+                        "display": "Minor salivary glands",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "48238.1",
+                        "display": "Carcinoma of Minor Salivary Glands",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13003.1",
+                        "display": "Carcinoma of Minor Salivary Glands",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13004.1",
+                        "display": "Acinic cell carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13005.1",
+                        "display": "Adenoid cystic carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13006.1",
+                        "display": "Adenocarcinoma not otherwise specified (NOS), low grade",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13007.1",
+                        "display": "Adenocarcinoma NOS, intermediate grade",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13008.1",
+                        "display": "Adenocarcinoma NOS, high grade",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13009.1",
+                        "display": "Adenosquamous carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13010.1",
+                        "display": "Squamous cell carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13011.1",
+                        "display": "Carcinoma ex pleomorphic adenoma (malignant mixed tumor)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13012.1",
+                        "display": "Carcinosarcoma (true malignant mixed tumor)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13013.1",
+                        "display": "Mucoepidermoid carcinoma, low grade",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13014.1",
+                        "display": "Mucoepidermoid carcinoma, intermediate grade",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13015.1",
+                        "display": "Mucoepidermoid carcinoma, high grade",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13016.1",
+                        "display": "Polymorphous low-grade adenocarcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13017.1",
+                        "display": "Epithelial-myoepithelial carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13018.1",
+                        "display": "Basal cell adenocarcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13019.1",
+                        "display": "Sebaceous carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13020.1",
+                        "display": "Cystadenocarcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13021.1",
+                        "display": "Mucinous carcinoma (colloid carcinoma)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13022.1",
+                        "display": "Oncocytic carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13023.1",
+                        "display": "Salivary duct carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13024.1",
+                        "display": "Myoepithelial carcinoma (malignant myoepithelioma)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13025.1",
+                        "display": "Small cell carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13026.1",
+                        "display": "Undifferentiated carcinoma",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13027.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13028.1",
+                        "display": "Carcinoma, type cannot be determined",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13029.1",
+                        "display": "HISTOLOGIC GRADE",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13030.1",
+                        "display": "Not applicable",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13031.1",
+                        "display": "GX: Cannot be assessed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13032.1",
+                        "display": "G1: Well differentiated",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13033.1",
+                        "display": "G2: Moderately differentiated",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13034.1",
+                        "display": "G3: Poorly differentiated",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13035.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13036.1",
+                        "display": "PATHOLOGIC STAGING  (pTNM) (see appropriate site below)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "48239.1",
+                        "display": "Note: The phrases in [brackets] include clinical findings required for AJCC staging. This clinical information may be unknown to the pathologist. It is included here only for the sake of completeness.",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13037.1",
+                        "display": "PRIMARY TUMOR (pT): Lip and Oral Cavity",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13038.1",
+                        "display": "pTX: Cannot be assessed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13039.1",
+                        "display": "pT0: No evidence of primary tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13040.1",
+                        "display": "pTis: Carcinoma in situ",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13041.1",
+                        "display": "pT1: Tumor 2 cm or less in greatest dimension",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13042.1",
+                        "display": "pT2: Tumor more than 2 cm but not more than 4 cm in greatest dimension",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13043.1",
+                        "display": "pT3: Tumor more than 4 cm in greatest dimension",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13044.1",
+                        "display": "pT4: Lip: Tumor invades through cortical bone, inferior alveolar nerve, floor of mouth, or skin of face, ie, chin or nose",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13045.1",
+                        "display": "pT4a: Oral Cavity: Tumor invades adjacent structures (eg, through cortical bone, into deep [extrinsic] muscle of tongue [genioglossus, hyoglossus, palatoglossus, and styloglossus], maxillary sinus, skin of face)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13046.1",
+                        "display": "pT4b: Tumor invades masticator space, pterygoid plates, or skull base, and/or encases internal carotid artery",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13047.1",
+                        "display": "PRIMARY TUMOR (pT): Oropharynx",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13048.1",
+                        "display": "pTX: Cannot be assessed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13049.1",
+                        "display": "pT0: No evidence of primary tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13050.1",
+                        "display": "pTis: Carcinoma in situ",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13051.1",
+                        "display": "pT1: Tumor 2 cm or less in greatest dimension",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13052.1",
+                        "display": "pT2: Tumor more than 2 cm but not more than 4 cm in greatest dimension",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13053.1",
+                        "display": "pT3: Tumor more than 4 cm in greatest dimension",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13054.1",
+                        "display": "pT4a: Tumor invades larynx, deep/extrinsic muscle of tongue, medial pterygoid muscles, hard palate or mandible",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13055.1",
+                        "display": "pT4b: Tumor invades lateral pterygoid muscle, pterygoid plates, lateral nasopharynx, or skull base, or encases carotid artery",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13056.1",
+                        "display": "PRIMARY TUMOR (pT): Hypopharynx",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13120.1",
+                        "display": "pTX: Cannot be assessed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13121.1",
+                        "display": "pT0: No evidence of primary tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13122.1",
+                        "display": "pTis: Carcinoma in situ",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13123.1",
+                        "display": "pT1: Tumor limited to 1 subsite of hypopharynx and 2 cm or less in greatest dimension",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13124.1",
+                        "display": "pT2: Tumor invades more than 1 subsite of hypopharynx or an adjacent site, or measures more than 2 cm but not more than 4 cm in greatest dimension [without fixation of hemilarynx]",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13125.1",
+                        "display": "pT3: Tumor measures more than 4 cm in greatest dimension [or with fixation of hemilarynx]",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13126.1",
+                        "display": "pT4a: Tumor invades thyroid/cricoid cartilage, hyoid bone, thyroid gland, esophagus, or central compartment soft tissue",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13127.1",
+                        "display": "pT4b: Tumor invades prevertebral fascia, encases carotid artery, or involves mediastinal structures",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13128.1",
+                        "display": "PRIMARY TUMOR (pT): Nasopharynx",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13129.1",
+                        "display": "pTX: Cannot be assessed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13130.1",
+                        "display": "pT0: No evidence of primary tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13131.1",
+                        "display": "pTis: Carcinoma in situ",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13132.1",
+                        "display": "pT1: Tumor confined to nasopharynx",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13133.1",
+                        "display": "pT2: Tumor extends to soft tissue",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13134.1",
+                        "display": "pT2a: Tumor extends to the oropharynx and/or nasal cavity without parapharyngeal extension",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13135.1",
+                        "display": "pT2b: Any tumor with parapharyngeal extension",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13136.1",
+                        "display": "pT3: Tumor invades bony structures and/or paranasal sinuses",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13137.1",
+                        "display": "pT4: Tumor with intracranial extension and/or involvement of cranial nerves, infratemporal fossa, hypopharynx, orbit, or masticator space",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13138.1",
+                        "display": "PRIMARY TUMOR (pT): Supraglottis",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13139.1",
+                        "display": "pTX: Cannot be assessed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13140.1",
+                        "display": "pT0: No evidence of primary tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13141.1",
+                        "display": "pTis: Carcinoma in situ",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13142.1",
+                        "display": "pT1: Tumor limited to 1 subsite of supraglottis [with normal vocal cord mobility]",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13143.1",
+                        "display": "pT2: Tumor invades mucosa of more than 1 adjacent subsite of supraglottis or glottis or region outside the supraglottis (eg, mucosa of base of tongue, vallecula, medial wall of pyriform sinus) [without fixation of the larynx]",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13144.1",
+                        "display": "pT3: Tumor limited to larynx [with vocal cord fixation] and/or invades any of the following: postcricoid area, pre-epiglottic tissues, paraglotic space, and/or minor thyroid cartilage erosion (eg, inner cortex)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13145.1",
+                        "display": "pT4a: Tumor invades through thyroid cartilage, and/or invades tissues beyond the larynx (eg, trachea, soft tissues of the neck including deep extrinsic muscle of the tongue, strap muscles, thyroid, or esophagus)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13146.1",
+                        "display": "pT4b: Tumor invades prevertebral space, encases carotid artery, or invades mediastinal structures",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13147.1",
+                        "display": "PRIMARY TUMOR (pT): Glottis",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13148.1",
+                        "display": "pTX: Cannot be assessed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13149.1",
+                        "display": "pT0: No evidence of primary tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13150.1",
+                        "display": "pTis: Carcinoma in situ",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13151.1",
+                        "display": "pT1: Tumor limited to the vocal cords (may involve anterior or posterior commissure) [with normal mobility]",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13152.1",
+                        "display": "pT1a: Tumor limited to 1 vocal cord",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13153.1",
+                        "display": "pT1b: Tumor involves both vocal cords",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13154.1",
+                        "display": "pT2: Tumor extends to supraglottis and/or subglottis, [and/or with impaired vocal cord mobility]",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13155.1",
+                        "display": "pT3: Tumor limited to the larynx [with vocal cord fixation] and/or invades the paraglottic space, and/or minor thyroid cartilage erosion (eg. inner cortex)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13156.1",
+                        "display": "pT4a: Tumor invades through thyroid cartilage and/or invades tissues beyond the larynx (eg, trachea, soft tissues of the neck including deep intrinsic muscle of the tongue, strap muscles, thyroid, or esophagus)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13157.1",
+                        "display": "pT4b: Tumor invades prevertebral space, encases carotid artery, or invades mediastinal structure",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13158.1",
+                        "display": "PRIMARY TUMOR (pT): Subglottis",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13159.1",
+                        "display": "pTX: Cannot be assessed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13160.1",
+                        "display": "pT0: No evidence of primary tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13161.1",
+                        "display": "pTis: Carcinoma in situ",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13162.1",
+                        "display": "pT1: Tumor limited to subglottis",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13163.1",
+                        "display": "pT2: Tumor extends to vocal cord(s) [with normal or impaired mobility]",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13164.1",
+                        "display": "pT3: Tumor limited to larynx [with vocal cord fixation]",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13165.1",
+                        "display": "pT4a: Tumor invades cricoid or thyroid cartilage and/or invades tissues beyond the larynx (eg, trachea, soft tissues of the neck including deep extrinsic muscle of the tongue, strap muscles, thyroid, or esophagus)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13166.1",
+                        "display": "pT4b: Tumor invades prevertebral space, encases carotid artery, or invades mediastinal structures",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13167.1",
+                        "display": "PRIMARY TUMOR (pT): Maxillary Sinus",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13168.1",
+                        "display": "pTX: Cannot be assessed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13169.1",
+                        "display": "pT0: No evidence of primary tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13170.1",
+                        "display": "pTis: Carcinoma in situ",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13171.1",
+                        "display": "pT1: Tumor limited to the maxillary sinus mucosa with no erosion or destruction of bone",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13172.1",
+                        "display": "pT2: Tumor causing bone erosion or destruction including extension into the hard palate and/or middle nasal meatus, except extension to posterior wall of maxillary sinus and pterygoid plates",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13173.1",
+                        "display": "pT3: Tumor invades any of the following: bone of the posterior wall of maxillary sinus, subcutaneous tissues, floor or medial wall of orbit, pterygoid fossa, ethmoid sinuses",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13174.1",
+                        "display": "pT4a: Tumor invades anterior orbital contents, skin of cheek, pterygoid plates, infratemporal fossa, cribiform plate, sphenoid or frontal sinuses",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13175.1",
+                        "display": "pT4b: Tumor invades any of the following: orbital apex, dura, brain, middle cranial fossa, cranial nerves other other than maxillary division of trigeminal nerve (V2), nasopharynx, or clivus",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13176.1",
+                        "display": "PRIMARY TUMOR (pT): Nasal Cavity and Ethmoid Sinus",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13177.1",
+                        "display": "pTX: Cannot be assessed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13178.1",
+                        "display": "pT0: No evidence of primary tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13179.1",
+                        "display": "pTis: Carcinoma in situ",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13180.1",
+                        "display": "pT1: Tumor restricted to any 1 subsite, with or without bony invasion",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13181.1",
+                        "display": "pT2: Tumor invading 2 subsites in a single region or extending to involve an adjacent region within the nasoethmoidal complex, with or without bony invasion",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13182.1",
+                        "display": "pT3: Tumor extends to invade the medial wall or floor of the orbit, maxillary sinus, palate, or cribriform plate",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13183.1",
+                        "display": "pT4a: Tumor invades any of the following: anterior orbital contents, skin of nose or cheek, minimal extension to anterior cranial fossa, pterygoid plates, sphenoid or frontal sinuses",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13184.1",
+                        "display": "pT4b: Tumor invades any of the  following: orbital apex, dura, brain, middle cranial fossa, cranial nerves other than (V2), nasopharynx, or clivus",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13185.1",
+                        "display": "REGIONAL LYMPH NODES (pN): All Aerodigestive Sites Except Nasopharynx",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13186.1",
+                        "display": "pNX: Cannot be assessed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13187.1",
+                        "display": "pN0: No regional lymph node metastasis",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13188.1",
+                        "display": "pN1: Metastasis in a single ipsilateral lymph node, 3 cm or less in greatest dimension",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13189.1",
+                        "display": "pN2a:  Metastasis in a single ipsilateral lymph node, more than 3 cm but not more than 6 cm in greatest dimension",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13190.1",
+                        "display": "pN2b: Metastasis in multiple ipsilateral lymph nodes, none more than 6 cm in greatest dimension",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13191.1",
+                        "display": "pN2c: Metastasis in bilateral or contralateral lymph nodes, none more than 6 cm in greatest dimension",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13192.1",
+                        "display": "pN3: Metastasis in a lymph node more than 6 cm in greatest dimension",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13193.1",
+                        "display": "Number examined",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13194.1",
+                        "display": "Number involved",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13195.1",
+                        "display": "REGIONAL LYMPH NODES (pN): Nasopharynx",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13196.1",
+                        "display": "pNX: Cannot be assessed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13197.1",
+                        "display": "pN0: No regional lymph node metastasis",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13198.1",
+                        "display": "pN1: Unilateral metastasis in lymph node(s), 6 cm or less in greatest dimension, above the supraclavicular fossa",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13199.1",
+                        "display": "pN2: Bilateral metastasis in lymph node(s), 6 cm or less in greatest dimension, above the supraclavicular fossa",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13200.1",
+                        "display": "pN3: Metastasis in a lymph node greater than 6 cm and/or to supraclavicular fossa",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13201.1",
+                        "display": "pN3a: Greater than 6 cm in dimension",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13202.1",
+                        "display": "pN3b: Extention to the supraclavicular fossa",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13203.1",
+                        "display": "Number examined",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13204.1",
+                        "display": "Number involved",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13205.1",
+                        "display": "Extra-capsular Extension of Nodal Tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13206.1",
+                        "display": "Absent",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13207.1",
+                        "display": "Present",
+                        "target": [
+                            {
+                                "code": "52101004 |Present (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13208.1",
+                        "display": "Indeterminate",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13209.1",
+                        "display": "DISTANT METASTASIS (pM)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13210.1",
+                        "display": "pMX: Cannot be assessed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13211.1",
+                        "display": "pM1: Distant metastasis",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13212.1",
+                        "display": "Specify site(s), if known",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13213.1",
+                        "display": "MARGINS (check all that apply)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13214.1",
+                        "display": "Cannot be assessed",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13223.1",
+                        "display": "Not applicable",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14402.1",
+                        "display": "Status of  margin involvement by invasive tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13215.1",
+                        "display": "Margins uninvolved by tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13216.1",
+                        "display": "Distance of tumor from closest margin (mm)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13217.1",
+                        "display": "Specify margin, if possible",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "14403.1",
+                        "display": "Status of margin involvement by carcinoma in situ",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13218.1",
+                        "display": "Carcinoma in situ absent",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13219.1",
+                        "display": "Carcinoma in situ present",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13220.1",
+                        "display": "Carcinoma in situ, not applicable",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13221.1",
+                        "display": "Margin(s) involved by tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13222.1",
+                        "display": "Specify margins(s), if possible",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13224.1",
+                        "display": "VENOUS/LYMPHATIC (LARGE/SMALL VESSEL) INVASION (V/L)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13225.1",
+                        "display": "Absent",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13226.1",
+                        "display": "Present",
+                        "target": [
+                            {
+                                "code": "52101004 |Present (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13227.1",
+                        "display": "Indeterminate",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13228.1",
+                        "display": "PERINEURAL INVASION",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13229.1",
+                        "display": "Absent",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13230.1",
+                        "display": "Present",
+                        "target": [
+                            {
+                                "code": "52101004 |Present (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13231.1",
+                        "display": "Additional Pathologic Findings (check all that apply)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13232.1",
+                        "display": "None identified",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13233.1",
+                        "display": "Carcinoma in situ",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13234.1",
+                        "display": "Inflammation (specify type)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13235.1",
+                        "display": "Epithelial hyperplasia",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13236.1",
+                        "display": "Epithelial dysplasia",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13237.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "13238.1",
+                        "display": "COMMENT(S)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }

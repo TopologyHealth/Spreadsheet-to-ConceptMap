@@ -1,6 +1,6 @@
 import os
 
-with os.scandir('/Users/josephmitchell/Documents/convertToConceptMap/ConceptMaps') as it:
+with os.scandir('./Formatted') as it:
     for entry in it:
         # list to store file lines
         lines = []

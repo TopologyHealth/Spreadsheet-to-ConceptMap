@@ -73,5 +73,5 @@ with open ('Scott_Query_Sheet.csv', 'r') as f1:
                         }
                     ]
             })
-            with open('Vulva.ResnotFormatted.json', 'w') as f:
+            with open('./NotFormatted/Vulva.ResnotFormatted.json', 'w') as f:
                 json.dump(data,f,indent=4, allow_nan=False)

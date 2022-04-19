@@ -1,0 +1,1711 @@
+    {
+        "resourceType": "ConceptMap",
+        "status": "draft",
+        "name": "Adrenal.Bx.Res",
+        "title": "Adrenal.Bx.Res",
+        "experimental": true,
+        "date": "2022-04-19",
+        "publisher": "College of American Pathologists",
+        "contact": [
+            {
+                "telecom": [
+                    {
+                        "system": "email",
+                        "value": "agoel@cap.org"
+                    }
+                ]
+            }
+        ],
+        "description": "mapping of SNOMED to CAP CKeys",
+        "purpose": "mapping of SNOMED to CAP CKeys",
+        "copyright": "College of American Pathologists 2022",
+        "group": [
+            {
+                "source": "http://cap.org/eCC",
+                "target": "http://snomed.info/sct",
+                "element": [
+                    {
+                        "code": "39617.1",
+                        "display": "# This protocol applies to adrenal cortical carcinomas in all age groups. Pediatric adrenal cortical tumors (18 years old or younger) have different diagnostic criteria for malignancy and are, in general, treated under protocols that may differ significantly from the recommendations for adult-type tumors.",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "4257.100004",
+                        "target": [
+                            {
+                                "display": "2620001000004108 |Specimen collection procedure (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2118.100004",
+                        "target": [
+                            {
+                                "code": "399687005 |Anatomic location of primary malignant neoplasm (observable entity)|",
+                                "display": "359571009 |Right colectomy (procedure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2119.100004",
+                        "display": "Adrenal gland",
+                        "target": [
+                            {
+                                "code": "23451007 |Adrenal structure (body structure)|",
+                                "display": "26925005 |Transverse colectomy (procedure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17537.1",
+                        "display": "CLINICAL",
+                        "target": [
+                            {
+                                "display": "82619000 |Left colectomy (procedure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "50854.1",
+                        "display": "Patient Age Group",
+                        "target": [
+                            {
+                                "display": "84604002 |Sigmoid colectomy (procedure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "50862.1",
+                        "display": "Adult (older than 18 years)",
+                        "target": [
+                            {
+                                "display": "314592008 |Low anterior resection of rectum (procedure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "51206.1",
+                        "display": "Pediatric (18 years old or younger)",
+                        "target": [
+                            {
+                                "display": "26390003 |Total colectomy (procedure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "4156.100004",
+                        "display": "Clinical History (specify)",
+                        "target": [
+                            {
+                                "display": "265414003 |Abdominoperineal resection of rectum (procedure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "53772.1",
+                        "display": "Functional Status",
+                        "target": [
+                            {
+                                "display": "448156002 |Excision of rectum by transanal approach (procedure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20900.1",
+                        "display": "Urinary 17-ketosteroids increased (10 mg / g creatinine / 24 hours)",
+                        "target": [
+                            {
+                                "display": "10381000132106 |Endoscopic mucosal resection of gastrointestinal tract (procedure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20902.1",
+                        "display": "Cushing syndrome",
+                        "target": [
+                            {
+                                "display": "123038009 |Specimen (specimen)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20904.1",
+                        "display": "Conn syndrome",
+                        "target": [
+                            {
+                                "display": "10003008 |Non-specific (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "43052.1",
+                        "display": "Virilization",
+                        "target": [
+                            {
+                                "display": "408655002 |Status of intactness of mesorectal specimen (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "44618.1",
+                        "display": "Feminization",
+                        "target": [
+                            {
+                                "display": "385432009 |Not applicable (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20906.1",
+                        "display": "Weight loss",
+                        "target": [
+                            {
+                                "display": "255594003 |Complete (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20907.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "display": "1990001000004102 |Near complete (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17875.1",
+                        "display": "SPECIMEN",
+                        "target": [
+                            {
+                                "display": "255599008 |Incomplete (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "42554.1",
+                        "display": "Procedure",
+                        "target": [
+                            {
+                                "code": "2620001000004108 |Specimen collection procedure (observable entity)|",
+                                "display": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "50809.1",
+                        "display": "Percutaneous needle biopsy",
+                        "target": [
+                            {
+                                "code": "396525008 |Specimen from adrenal gland obtained by needle biopsy (specimen)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "46633.1",
+                        "display": "Endoscopic directed biopsy (specify radiographic technique)",
+                        "target": [
+                            {
+                                "code": "309142006 |Adrenal biopsy sample (specimen)|",
+                                "display": "399687005 |Anatomic location of primary malignant neoplasm (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2122.100004",
+                        "display": "Adrenalectomy, total",
+                        "target": [
+                            {
+                                "code": "396527000 |Specimen from adrenal gland obtained by total adrenalectomy (specimen)|",
+                                "display": "32713005 |Cecum structure (body structure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2121.100004",
+                        "display": "Adrenalectomy, partial",
+                        "target": [
+                            {
+                                "code": "396526009 |Specimen from adrenal gland obtained by partial adrenalectomy (specimen)|",
+                                "display": "23153004 |Ileocecal valve structure (body structure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2123.100004",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "display": "9040008 |Ascending colon structure (body structure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2124.100004",
+                        "display": "Not specified",
+                        "target": [
+                            {
+                                "display": "48338005 |Structure of right colic flexure (body structure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "52756.1",
+                        "display": "Specimen Laterality",
+                        "target": [
+                            {
+                                "display": "485005 |Transverse colon structure (body structure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2126.100004",
+                        "display": "Right",
+                        "target": [
+                            {
+                                "code": "29392005 |Structure of right adrenal gland (body structure)|",
+                                "display": "72592005 |Structure of left colic flexure (body structure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2127.100004",
+                        "display": "Left",
+                        "target": [
+                            {
+                                "code": "12003004 |Structure of left adrenal gland (body structure)|",
+                                "display": "32622004 |Descending colon structure (body structure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "56812.1",
+                        "display": "Bilateral",
+                        "target": [
+                            {
+                                "code": "23451007 |Adrenal structure (body structure)|",
+                                "display": "60184004 |Sigmoid colon structure (body structure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20866.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "display": "81922002 |Rectosigmoid structure (body structure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2128.100004",
+                        "display": "Not specified",
+                        "target": [
+                            {
+                                "display": "34402009 |Rectum structure (body structure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17876.1",
+                        "display": "TUMOR",
+                        "target": [
+                            {
+                                "display": "1030001000004100 |Site of excised primary malignant neoplasm of rectosigmoid colon relative to peritoneal reflection (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "59852.1",
+                        "display": "Histologic Type",
+                        "target": [
+                            {
+                                "code": "911753591000004105 |Histologic type of primary malignant neoplasm of adrenal gland (observable entity)|",
+                                "display": "352730000 |Supra- (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2117.100004",
+                        "display": "Adrenal cortical carcinoma",
+                        "target": [
+                            {
+                                "code": "2227007 |Adrenal cortical carcinoma (morphologic abnormality)|",
+                                "display": "351726001 |Below (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "46925.1",
+                        "display": "Adrenal cortical carcinoma, oncocytic type",
+                        "target": [
+                            {
+                                "display": "84177009 |Straddling (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "44449.1",
+                        "display": "Adrenal cortical carcinoma, myxoid type",
+                        "target": [
+                            {
+                                "display": "10003008 |Non-specific (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "59162.1",
+                        "display": "Adrenal cortical carcinoma, sarcomatoid type",
+                        "target": [
+                            {
+                                "display": "71854001 |Colon structure (body structure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378171.1",
+                        "display": "Other histologic type not listed (specify)",
+                        "target": [
+                            {
+                                "display": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378172.1",
+                        "display": "Carcinoma, type cannot be determined",
+                        "target": [
+                            {
+                                "code": "68453008 |Carcinoma, no subtype (morphologic abnormality)|",
+                                "display": "798721000004104 |Histologic type of primary malignant neoplasm of colon (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "43670.1",
+                        "display": "Histologic Type Comment",
+                        "target": [
+                            {
+                                "display": "35917007 |Adenocarcinoma, no subtype (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "49275.1",
+                        "display": "?Histologic Grade (required for adult patients only)",
+                        "target": [
+                            {
+                                "code": "1149022006 |Histologic grade of primary malignant neoplasm of adrenal gland (observable entity)|",
+                                "display": "72495009 |Mucinous adenocarcinoma (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "51017.1",
+                        "display": "?Not applicable",
+                        "target": [
+                            {
+                                "display": "87737001 |Signet ring cell carcinoma (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "53603.1",
+                        "display": "Low grade (less than or equal to 20 mitoses per 50 high-power fields)",
+                        "target": [
+                            {
+                                "code": "1155708003 |Low histologic grade (qualifier value)|",
+                                "display": "32913002 |Medullary carcinoma (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "48634.1",
+                        "display": "High grade (greater than 20 mitoses per 50 high-power fields)",
+                        "target": [
+                            {
+                                "code": "1155707008 |High histologic grade (qualifier value)|",
+                                "display": "450948005 |Serrated adenocarcinoma (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "57980.1",
+                        "display": "# Generally due to core needle biopsy, with insufficient viable tumor to count 50 HPFs.",
+                        "target": [
+                            {
+                                "display": "450895005 |Micropapillary carcinoma (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "54648.1",
+                        "display": "Cannot be assessed (explain)#",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "59367005 |Adenosquamous carcinoma (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2129.100004",
+                        "display": "Tumor Size",
+                        "target": [
+                            {
+                                "display": "38549000 |Carcinoma, undifferentiated (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2131.100004",
+                        "display": "Greatest dimension in Centimeters (cm)",
+                        "target": [
+                            {
+                                "code": "200001000004104 |Greatest length dimension of excised primary malignant neoplasm (observable entity)|",
+                                "display": "23109009 |Pseudosarcomatous carcinoma (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2133.100004",
+                        "display": "Additional Dimension in Centimeters (cm)",
+                        "target": [
+                            {
+                                "code": "640001000004105 |Second greatest length dimension of excised primary malignant neoplasm (observable entity)|",
+                                "display": "128628002 |Large cell neuroendocrine carcinoma (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2132.100004",
+                        "display": "Additional Dimension in Centimeters (cm)",
+                        "target": [
+                            {
+                                "code": "1620001000004107 |Smallest length dimension of excised primary malignant neoplasm (observable entity)|",
+                                "display": "719105002 |Small cell neuroendocrine carcinoma (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2130.100004",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "785766008 |Mixed neuroendocrine-non neuroendocrine neoplasm (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "40496.1",
+                        "display": "Tumor Weight",
+                        "target": [
+                            {
+                                "code": "371503009 |Neoplasm weight (observable entity)|",
+                                "display": "49755003 |Morphologically abnormal structure (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "44761.1",
+                        "display": "Specify weight (g)",
+                        "target": [
+                            {
+                                "display": "68453008 |Carcinoma, no subtype (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378866.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "57476.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "1870001000004104 |Histologic grade of primary malignant neoplasm of colon (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354224.1",
+                        "display": "Site(s) Involved by Direct Tumor Extension",
+                        "target": [
+                            {
+                                "code": "1155810009 |Anatomic location directly invaded by primary malignant neoplasm of adrenal gland (observable entity)|",
+                                "display": "1155701009 |G1: Well differentiated histologic grade (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "50695.1",
+                        "display": "Confined to adrenal cortex without invasion through tumor capsule (if present)",
+                        "target": [
+                            {
+                                "display": "1155703007 |G2: Moderately differentiated histologic grade (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "39537.1",
+                        "display": "Invades into or through the adrenal capsule",
+                        "target": [
+                            {
+                                "display": "1155704001 |G3: Poorly differentiated histologic grade (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "56752.1",
+                        "display": "Kidney",
+                        "target": [
+                            {
+                                "code": "64033007 |Kidney structure (body structure)|",
+                                "display": "1155702002 |G4: Undifferentiated histologic grade (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "57748.1",
+                        "display": "Pancreas",
+                        "target": [
+                            {
+                                "code": "15776009 |Pancreatic structure (body structure)|",
+                                "display": "370114008 |Histological grades (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "41409.1",
+                        "display": "Liver",
+                        "target": [
+                            {
+                                "code": "10200004 |Liver structure (body structure)|",
+                                "display": "1155705000 |GX: Histologic grade cannot be assessed (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "42305.1",
+                        "display": "Spleen",
+                        "target": [
+                            {
+                                "code": "78961009 |Splenic structure (body structure)|",
+                                "display": "385432009 |Not applicable (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "58229.1",
+                        "display": "Diaphragm",
+                        "target": [
+                            {
+                                "code": "5798000 |Diaphragm structure (body structure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "46218.1",
+                        "display": "Stomach",
+                        "target": [
+                            {
+                                "code": "69695003 |Stomach structure (body structure)|",
+                                "display": "200001000004104 |Greatest length dimension of excised primary malignant neoplasm (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "45594.1",
+                        "display": "Other adjacent organs and structures (specify)",
+                        "target": [
+                            {
+                                "display": "640001000004105 |Second greatest length dimension of excised primary malignant neoplasm (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "51911.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "display": "1620001000004107 |Smallest length dimension of excised primary malignant neoplasm (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "44186.1",
+                        "display": "Not applicable (no evidence of primary tumor)",
+                        "target": [
+                            {
+                                "display": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "39990.1",
+                        "display": "Lymphovascular Invasion",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2159.100004",
+                        "display": "Not identified",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "52962.1",
+                        "display": "Large vessel invasion, renal vein (including when identified clinically)",
+                        "target": [
+                            {
+                                "display": "52101004 |Present (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "59454.1",
+                        "display": "Large vessel invasion, vena cava (including when identified clinically)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "43597.1",
+                        "display": "Large vessel invasion, not otherwise specified",
+                        "target": [
+                            {
+                                "display": "1220001000004105 |Anatomic location directly invaded by primary malignant neoplasm of colon (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "55828.1",
+                        "display": "Microscopic angioinvasion",
+                        "target": [
+                            {
+                                "display": "42978003 |Colonic epithelium (body structure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "45031.1",
+                        "display": "Lymphatic invasion",
+                        "target": [
+                            {
+                                "display": "113284008 |Colonic lamina propria (body structure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2161.100004",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "display": "61647009 |Structure of submucosa of colon (body structure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "48491.1",
+                        "display": "Tumor Description",
+                        "target": [
+                            {
+                                "display": "41948009 |Structure of muscularis propria of colon (body structure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20863.1",
+                        "display": "Hemorrhagic",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20864.1",
+                        "display": "Necrotic",
+                        "target": [
+                            {
+                                "display": "50703002 |Visceral peritoneum structure (body structure)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20865.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "display": "1220001000004105 |Anatomic location directly invaded by primary malignant neoplasm of colon (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "379219.1",
+                        "display": "Tumor Comment",
+                        "target": [
+                            {
+                                "display": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17878.1",
+                        "display": "MARGINS",
+                        "target": [
+                            {
+                                "display": "Use \"not seen\"",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2153.100004",
+                        "display": "Margin Status",
+                        "target": [
+                            {
+                                "code": "384695008 |Presence of primary malignant neoplasm at surgical margin in excised specimen (observable entity)|",
+                                "display": "788481000004105 |Presence of macroscopic perforation of colon by primary malignant neoplasm of colon (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2154.100004",
+                        "display": "All margins negative for carcinoma",
+                        "target": [
+                            {
+                                "code": "2667000 |Absent (qualifier value)|",
+                                "display": "47492008 |Not seen (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354249.1",
+                        "display": "Closest Margin(s) to Carcinoma",
+                        "target": [
+                            {
+                                "display": "52101004 |Present (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354250.1",
+                        "display": "Specify closest margin(s)",
+                        "target": [
+                            {
+                                "display": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354252.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "1155796006 |Presence of direct invasion by primary malignant neoplasm of colon to lymphatic vessel and/or small blood vessel (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354236.1",
+                        "display": "Distance from Carcinoma to Closest Margin ",
+                        "target": [
+                            {
+                                "code": "384891002 |Distance of malignant neoplasm from closest surgical margin in excised specimen (observable entity)|",
+                                "display": "47492008 |Not seen (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354238.1",
+                        "display": "Specify in Millimeters (mm)",
+                        "target": [
+                            {
+                                "display": "1155796006 |Presence of direct invasion by primary malignant neoplasm of colon to lymphatic vessel and/or small blood vessel (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "26359.1",
+                        "display": "Exact distance",
+                        "target": [
+                            {
+                                "display": "1890001000004107 |Presence of direct invasion by primary malignant neoplasm of colon to blood vessel of colonic submucosa and/or colonic muscularis propria (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354234.1",
+                        "display": "At least",
+                        "target": [
+                            {
+                                "display": "1890001000004107 |Presence of direct invasion by primary malignant neoplasm of colon to blood vessel of colonic submucosa and/or colonic muscularis propria (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354237.1",
+                        "display": "Less than 1 mm",
+                        "target": [
+                            {
+                                "display": "52101004 |Present (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378868.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "display": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "26361.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "1155797002 |Presence of direct invasion by primary malignant neoplasm of colon to nerve (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2155.100004",
+                        "display": "Carcinoma present at margin",
+                        "target": [
+                            {
+                                "code": "52101004 |Present (qualifier value)|",
+                                "display": "1155797002 |Presence of direct invasion by primary malignant neoplasm of colon to nerve (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354227.1",
+                        "display": "Margin(s) Involved by Carcinoma",
+                        "target": [
+                            {
+                                "code": "1155982006 |Surgical margin involved by primary malignant neoplasm of adrenal gland in excised adrenal gland specimen (observable entity)|",
+                                "display": "47492008 |Not seen (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354228.1",
+                        "display": "Specify involved margin(s)",
+                        "target": [
+                            {
+                                "display": "52101004 |Present (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354229.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378867.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2157.100004",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "358407.1",
+                        "display": "Margin Comment",
+                        "target": [
+                            {
+                                "display": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17881.1",
+                        "display": "REGIONAL LYMPH NODES",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "372404.1",
+                        "display": "Regional Lymph Node Status",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "1868.100004",
+                        "display": "Not applicable (no regional lymph nodes submitted or found)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "372406.1",
+                        "display": "Regional lymph nodes present",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354287.1",
+                        "target": [
+                            {
+                                "display": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354281.1",
+                        "display": "All regional lymph nodes negative for tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354288.1",
+                        "display": "Tumor present in regional lymph node(s)",
+                        "target": [
+                            {
+                                "display": "47492008 |Not seen (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "45098.1",
+                        "display": "Number of Lymph Nodes with Tumor",
+                        "target": [
+                            {
+                                "code": "443527007 |Number of lymph nodes containing metastatic neoplasm in excised specimen (observable entity)|",
+                                "display": "1156654007 |Benign tubular adenoma (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "1873.100004",
+                        "display": "Exact number (specify)",
+                        "target": [
+                            {
+                                "display": "128859003 |Villous adenoma (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "58938.1",
+                        "display": "At least (specify)",
+                        "target": [
+                            {
+                                "display": "61722000 |Tubulovillous adenoma (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354285.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "display": "443734007 |Traditional serrated adenoma (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "1874.100004",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "443157008 |Sessile serrated adenoma (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "39296.1",
+                        "display": "Extranodal Extension",
+                        "target": [
+                            {
+                                "code": "396642005 |Presence of direct invasion by metastatic neoplasm of lymph node to perilymphatic tissue (observable entity)|",
+                                "display": "27391005 |Hamartomatous polyp (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20886.1",
+                        "display": "Not identified",
+                        "target": [
+                            {
+                                "display": "41329004 |Polyp (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20887.1",
+                        "display": "Present",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20888.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354283.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354284.1",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "42934.1",
+                        "display": "Number of Lymph Nodes Examined",
+                        "target": [
+                            {
+                                "code": "444025001 |Number of lymph nodes examined by microscopy in excised specimen (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "1870.100004",
+                        "display": "Exact number (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "54610.1",
+                        "display": "At least (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354289.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "display": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "1871.100004",
+                        "display": "Cannot be determined (explain)",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "358408.1",
+                        "display": "Regional Lymph Node Comment",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354239.1",
+                        "display": "DISTANT METASTASIS",
+                        "target": [
+                            {
+                                "display": "1156372009 |Presence of primary malignant neoplasm of colon at surgical margin in colectomy specimen (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354240.1",
+                        "display": "?Distant Site(s) Involved, if applicable",
+                        "target": [
+                            {
+                                "display": "2667000 |Absent (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354245.1",
+                        "display": "?Not applicable",
+                        "target": [
+                            {
+                                "display": "6070001000004100 |Surgical margin closest to carcinoma in excised specimen of colon (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354242.1",
+                        "display": "Liver",
+                        "target": [
+                            {
+                                "code": "10200004 |Liver structure (body structure)|",
+                                "display": "1370001000004102 |Proximal surgical margin (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354241.1",
+                        "display": "Lung",
+                        "target": [
+                            {
+                                "code": "39607008 |Lung structure (body structure)|",
+                                "display": "880001000004108 |Distal surgical margin (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354243.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "display": "1095801000004106 |Radial surgical margin (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "354244.1",
+                        "display": "Cannot be determined",
+                        "target": [
+                            {
+                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "display": "990001000004102 |Deep surgical margin (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2136.100004",
+                        "display": "PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th Edition)",
+                        "target": [
+                            {
+                                "display": "1156299008 |Mucosal surgical margin (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "51087.1",
+                        "display": "Reporting of pT, pN, and (when applicable) pM categories is based on information available to the pathologist at the time the report is issued. As per the AJCC (Chapter 1, 8th Ed.) it is the managing physician’s responsibility to establish the final pathologic stage based upon all pertinent information, including but potentially not limited to this pathology report.",
+                        "target": [
+                            {
+                                "display": "871811002 |Surgical margin (morphologic abnormality)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20880.1",
+                        "display": "?TNM Descriptors",
+                        "target": [
+                            {
+                                "display": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "22897.1",
+                        "display": "?Not applicable",
+                        "target": [
+                            {
+                                "display": "384891002 |Distance of malignant neoplasm from closest surgical margin in excised specimen (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20890.1",
+                        "display": "m (multiple primary tumors)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20891.1",
+                        "display": "r (recurrent)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20892.1",
+                        "display": "y (post-treatment)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "327636.1",
+                        "display": "pT Category",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20894.1",
+                        "display": "There is no category of carcinoma in situ (pTis) relative to carcinomas of the adrenal gland.",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "327637.1",
+                        "display": "pT not assigned (cannot be determined based on available pathological information)  ",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20889.1",
+                        "display": "pT0: No evidence of primary tumor",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2138.100004",
+                        "display": "pT1: Tumor less than or equal to 5 cm in greatest dimension, no extra-adrenal invasion",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2139.100004",
+                        "display": "pT2: Tumor greater than 5 cm, no extra-adrenal invasion",
+                        "target": [
+                            {
+                                "display": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2140.100004",
+                        "display": "pT3: Tumor of any size with local invasion, but not invading adjacent organs",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2141.100004",
+                        "display": "pT4: Tumor of any size with invasion of adjacent organs (kidney, diaphragm, pancreas, spleen, or liver) or large blood vessels (renal vein or vena cava)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "327638.1",
+                        "display": "pN Category",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "327639.1",
+                        "display": "pN not assigned (no nodes submitted or found)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "327640.1",
+                        "display": "pN not assigned (cannot be determined based on available pathological information)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2145.100004",
+                        "display": "pN0: No regional lymph node metastasis",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2146.100004",
+                        "display": "pN1: Metastasis in regional lymph node(s)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2149.100004",
+                        "display": "?pM Category (required only if confirmed pathologically)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20895.1",
+                        "display": "?Not applicable - pM cannot be determined from the submitted specimen(s)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2151.100004",
+                        "display": "pM1: Distant metastasis",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17884.1",
+                        "display": "ADDITIONAL FINDINGS",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "39188.1",
+                        "display": "Additional Findings",
+                        "target": [
+                            {
+                                "display": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2163.100004",
+                        "display": "None identified",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20897.1",
+                        "display": "Hemorrhage",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20898.1",
+                        "display": "Cystic change",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "20854.1",
+                        "display": "Calcifications",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2167.100004",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "17880.1",
+                        "display": "SPECIAL STUDIES",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378869.1",
+                        "display": "Ki-67 Labeling Index",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378872.1",
+                        "display": "Specify percentage",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378873.1",
+                        "display": "Other (specify)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378870.1",
+                        "display": "Reticulin Stain Results (specify type(s) and result(s))",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "378871.1",
+                        "display": "Other Ancillary Study Findings (specify types and results)",
+                        "target": [
+                            {
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "381042.1",
+                        "display": "COMMENTS",
+                        "target": [
+                            {
+                                "display": "1156316003 |Cannot be determined (qualifier value)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    },
+                    {
+                        "code": "2168.100004",
+                        "display": "?Comment(s)",
+                        "target": [
+                            {
+                                "display": "422205000 |Distance of malignant neoplasm from closest surgical margin of mesentery of colon in excised specimen (observable entity)|",
+                                "equivalence": "equivalent"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }

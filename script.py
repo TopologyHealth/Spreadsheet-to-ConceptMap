@@ -73,7 +73,7 @@ with open ('Scott_Query_Sheet.csv', 'r') as f1:
                         }
                     ]
             })
-            with open(titles[currentTitleIndex]+'notFormatted.json', 'w') as f:
+            with open('./NotFormatted/'+titles[currentTitleIndex]+'notFormatted.json', 'w') as f:
                 json.dump(data,f,indent=4, allow_nan=False)
 
         if(index>=firstIndexOfTitle[currentTitleIndex+1]):
