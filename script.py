@@ -41,7 +41,7 @@ with open ('Scott_Query_wscPopulated.xlsx - Sheet1.csv', 'r') as f1:
                         'code':row[9],
                         'display':row[11],
                         'target':[{
-                            'code':row[14].split('|')[0],
+                            'code':row[14].split('|')[0][:-1],
                             'display':row[14].split('|')[1],
                             'equivalence':'equivalent'
                         }]    
