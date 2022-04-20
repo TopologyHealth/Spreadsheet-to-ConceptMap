@@ -4,7 +4,7 @@
         "name": "Tumor.Bx",
         "title": "Tumor.Bx",
         "experimental": true,
-        "date": "2022-04-19",
+        "date": "2022-04-20",
         "publisher": "College of American Pathologists",
         "contact": [
             {
@@ -25,356 +25,45 @@
                 "target": "http://snomed.info/sct",
                 "element": [
                     {
-                        "code": "37263.1",
-                        "display": "May be used for any malignancy for which an appropriate organ-specific biopsy protocol is not available.",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37258.1",
-                        "display": "CLINICAL",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37259.1",
-                        "display": "Treatment History",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37260.1",
-                        "display": "No known prior treatment",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37261.1",
-                        "display": "Prior treatment given (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37262.1",
-                        "display": "Not specified",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37266.1",
-                        "display": "SPECIMEN",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37267.1",
-                        "display": "Specimen Site (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37268.1",
-                        "display": "Specimen Laterality",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37269.1",
-                        "display": "Right",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37270.1",
-                        "display": "Left",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37271.1",
-                        "display": "Not specified",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37051.1",
-                        "display": "Not applicable",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37272.1",
+                        "code": "37272.100004300",
                         "display": "Procedure",
                         "target": [
                             {
-                                "code": "2620001000004108 |Specimen collection procedure (observable entity)|",
+                                "code": "2620001000004108 ",
+                                "display": "Specimen collection procedure (observable entity)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "37053.1",
-                        "display": "Needle biopsy",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37054.1",
-                        "display": "Incisional biopsy",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37056.1",
-                        "display": "Excisional biopsy",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37055.1",
-                        "display": "Fine needle aspiration",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37057.1",
-                        "display": "Biopsy, not otherwise specified",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37058.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37273.1",
-                        "display": "Specimen Adequacy",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37274.1",
-                        "display": "Adequate",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37275.1",
-                        "display": "Suboptimal (explain)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37276.1",
-                        "display": "TUMOR",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37277.1",
-                        "display": "Histologic Type (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37278.1",
-                        "display": "Histologic Grade (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37282.1",
-                        "display": "Lymphovascular Invasion",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37295.1",
+                        "code": "37295.100004300",
                         "display": "Not identified",
                         "target": [
                             {
-                                "code": "47492008 |Not seen (qualifier value)|",
+                                "code": "47492008 ",
+                                "display": "Not seen (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "37296.1",
+                        "code": "37296.100004300",
                         "display": "Present",
                         "target": [
                             {
-                                "code": "52101004 |Present (qualifier value)|",
+                                "code": "52101004 ",
+                                "display": "Present (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "37297.1",
+                        "code": "37297.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "381223.1",
-                        "display": "Tumor Comment",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37283.1",
-                        "display": "SPECIAL STUDIES",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37284.1",
-                        "display": "List pending biomarker studies in the Comments section of this report.",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37060.1",
-                        "display": "Biomarkers Tested (repeat as needed)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37285.1",
-                        "display": "Biomarker Tested",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37286.1",
-                        "display": "Results",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37287.1",
-                        "display": "Testing Method",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "381144.1",
-                        "display": "COMMENTS",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37288.1",
-                        "display": "?Comment(s)",
-                        "target": [
-                            {
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]

@@ -4,7 +4,7 @@
         "name": "Small_Int.Res",
         "title": "Small_Int.Res",
         "experimental": true,
-        "date": "2022-04-19",
+        "date": "2022-04-20",
         "publisher": "College of American Pathologists",
         "contact": [
             {
@@ -25,1744 +25,287 @@
                 "target": "http://snomed.info/sct",
                 "element": [
                     {
-                        "code": "17720.1",
-                        "display": "SPECIMEN",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "44294.1",
+                        "code": "44294.100004300",
                         "display": "Procedure",
                         "target": [
                             {
-                                "code": "2620001000004108 |Specimen collection procedure (observable entity)|",
+                                "code": "2620001000004108 ",
+                                "display": "Specimen collection procedure (observable entity)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "6517.100004",
-                        "display": "Segmental resection",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "58555.1",
-                        "display": "Ileocolic resection",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6518.100004",
-                        "display": "Pancreaticoduodenectomy (Whipple resection)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6519.100004",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6520.100004",
-                        "display": "Not specified",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "17721.1",
-                        "display": "TUMOR",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "39763.1",
+                        "code": "39763.100004300",
                         "display": "Tumor Site",
                         "target": [
                             {
-                                "code": "399687005 |Anatomic location of primary malignant neoplasm (observable entity)|",
+                                "code": "399687005 ",
+                                "display": "Anatomic location of primary malignant neoplasm (observable entity)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "6522.100004",
-                        "display": "Duodenum",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6523.100004",
-                        "display": "Jejunum",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6524.100004",
-                        "display": "Ileum",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "50543.1",
-                        "display": "Small intestine, not otherwise specified",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "20226.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "48836.1",
-                        "display": "Histologic Type",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6541.100004",
-                        "display": "Adenocarcinoma (not otherwise characterized)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6542.100004",
-                        "display": "Mucinous adenocarcinoma (greater than 50% mucinous)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "48839.1",
-                        "display": "Poorly cohesive cell carcinoma with or without signet-ring cells",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6547.100004",
-                        "display": "Medullary carcinoma",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6546.100004",
-                        "display": "Adenosquamous carcinoma",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6545.100004",
-                        "display": "Squamous cell carcinoma",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "27134.1",
-                        "display": "Large cell neuroendocrine carcinoma",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "27135.1",
-                        "display": "Small cell neuroendocrine carcinoma",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "59969.1",
-                        "display": "# Select this option only if large cell or small cell cannot be determined.",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37553.1",
-                        "display": "Neuroendocrine carcinoma (poorly differentiated)#",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6549.100004",
-                        "display": "Mixed adenocarcinoma-neuroendocrine carcinoma",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6548.100004",
-                        "display": "Undifferentiated carcinoma",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6550.100004",
-                        "display": "Other histologic type not listed (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "54470.1",
-                        "display": "Histologic Type Comment",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6552.100004",
-                        "display": "Histologic Grade",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6555.100004",
+                        "code": "6555.100004300",
                         "display": "G1, well differentiated",
                         "target": [
                             {
-                                "code": "1155701009 |G1: Well differentiated histologic grade (qualifier value)|",
+                                "code": "1155701009 ",
+                                "display": "G1: Well differentiated histologic grade (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "6556.100004",
+                        "code": "6556.100004300",
                         "display": "G2, moderately differentiated",
                         "target": [
                             {
-                                "code": "1155703007 |G2: Moderately differentiated histologic grade (qualifier value)|",
+                                "code": "1155703007 ",
+                                "display": "G2: Moderately differentiated histologic grade (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "6557.100004",
+                        "code": "6557.100004300",
                         "display": "G3, poorly differentiated",
                         "target": [
                             {
-                                "code": "1155704001 |G3: Poorly differentiated histologic grade (qualifier value)|",
+                                "code": "1155704001 ",
+                                "display": "G3: Poorly differentiated histologic grade (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "6558.100004",
-                        "display": "G4, undifferentiated",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6559.100004",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6554.100004",
-                        "display": "GX, cannot be assessed",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6553.100004",
-                        "display": "Not applicable",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6531.100004",
-                        "display": "Tumor Size",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6533.100004",
+                        "code": "6533.100004300",
                         "display": "Greatest dimension in Centimeters (cm)",
                         "target": [
                             {
-                                "code": "200001000004104 |Greatest length dimension of excised primary malignant neoplasm (observable entity)|",
+                                "code": "200001000004104 ",
+                                "display": "Greatest length dimension of excised primary malignant neoplasm (observable entity)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "6534.100004",
-                        "display": "Additional Dimension in Centimeters (cm)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6535.100004",
-                        "display": "Additional Dimension in Centimeters (cm)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6532.100004",
+                        "code": "6532.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "41271.1",
-                        "display": "Tumor Extent",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "59339.1",
-                        "display": "High-grade dysplasia / carcinoma in situ",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6527.100004",
-                        "display": "Invades lamina propria",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6528.100004",
-                        "display": "Invades submucosa",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "20234.1",
-                        "display": "Invades muscularis propria",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "40241.1",
-                        "display": "Invades through muscularis propria into subserosa, or extends into nonperitonealized perimuscular tissue (mesentery or retroperitoneum) without serosal penetration",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "57450.1",
-                        "display": "Perforates visceral peritoneum",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "50938.1",
-                        "display": "Directly invades other organ(s) or structure(s)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "56972.1",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "54270.1",
-                        "display": "Other loops of small intestine",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "39500.1",
-                        "display": "Mesentery of adjacent loops of bowel",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "46447.1",
-                        "display": "Abdominal wall (by way of serosa)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "45116.1",
-                        "display": "For Duodenum Only",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "47280.1",
-                        "display": "Pancreas",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "46590.1",
-                        "display": "Bile duct",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "38498.1",
-                        "display": "Other",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "56500.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379524.1",
+                        "code": "379524.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "20233.1",
+                        "code": "20233.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "19315.1",
-                        "display": "No evidence of primary tumor",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "20227.1",
-                        "display": "Macroscopic Tumor Perforation",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "20232.1",
+                        "code": "20232.100004300",
                         "display": "Not identified",
                         "target": [
                             {
-                                "code": "47492008 |Not seen (qualifier value)|",
+                                "code": "47492008 ",
+                                "display": "Not seen (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "20229.1",
+                        "code": "20229.100004300",
                         "display": "Present",
                         "target": [
                             {
-                                "code": "52101004 |Present (qualifier value)|",
+                                "code": "52101004 ",
+                                "display": "Present (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "20231.1",
+                        "code": "20231.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "6637.100004",
-                        "display": "Lymphovascular Invasion",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6638.100004",
+                        "code": "6638.100004300",
                         "display": "Not identified",
                         "target": [
                             {
-                                "code": "47492008 |Not seen (qualifier value)|",
+                                "code": "47492008 ",
+                                "display": "Not seen (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "6639.100004",
+                        "code": "6639.100004300",
                         "display": "Present",
                         "target": [
                             {
-                                "code": "52101004 |Present (qualifier value)|",
+                                "code": "52101004 ",
+                                "display": "Present (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "6640.100004",
+                        "code": "6640.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "379523.1",
-                        "display": "Tumor Comment",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366874.1",
-                        "display": "MARGINS",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366875.1",
-                        "display": "Margin Status for Invasive Carcinoma",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366876.1",
-                        "display": "All margins negative for invasive carcinoma",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366881.1",
-                        "display": "Closest Margin(s) to Invasive Carcinoma",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366882.1",
-                        "display": "Proximal",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366883.1",
-                        "display": "Distal",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366871.1",
-                        "display": "Radial or mesenteric",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366870.1",
-                        "display": "Uncinate (retroperitoneal / superior mesenteric artery)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366872.1",
-                        "display": "Bile duct",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366925.1",
-                        "display": "Pancreatic",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366884.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366885.1",
+                        "code": "366885.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "366886.1",
-                        "display": "Distance from Invasive Carcinoma to Closest Margin ",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366899.1",
-                        "display": "Specify in Centimeters (cm)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366900.1",
-                        "display": "Exact distance in cm",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366901.1",
-                        "display": "Greater than 1 cm",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366890.1",
-                        "display": "Specify in Millimeters (mm)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366902.1",
-                        "display": "Exact distance in mm",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366887.1",
-                        "display": "Greater than 10 mm",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366903.1",
-                        "display": "Other",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366888.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366889.1",
+                        "code": "366889.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "366877.1",
-                        "display": "Invasive carcinoma present at margin",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366894.1",
-                        "display": "Margin(s) Involved by Invasive Carcinoma",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366895.1",
-                        "display": "Proximal",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366896.1",
-                        "display": "Distal",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366923.1",
-                        "display": "Radial or mesenteric (tumor present 0-1 mm from margin)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366924.1",
-                        "display": "Uncinate (retroperitoneal / superior mesenteric artery) (tumor present 0-1 mm from margin)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366892.1",
-                        "display": "Bile duct",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366873.1",
-                        "display": "Pancreatic",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366897.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366898.1",
+                        "code": "366898.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "366878.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366879.1",
+                        "code": "366879.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "366880.1",
-                        "display": "Not applicable",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366905.1",
-                        "display": "Margin Status for Dysplasia",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366906.1",
-                        "display": "All margins negative for carcinoma in situ (high-grade dysplasia) / adenoma",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366907.1",
-                        "display": "Carcinoma in situ (high-grade dysplasia) present at margin",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366911.1",
-                        "display": "Margin(s) Involved by Carcinoma in Situ",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366912.1",
-                        "display": "Proximal",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366913.1",
-                        "display": "Distal",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366914.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366915.1",
+                        "code": "366915.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "366917.1",
-                        "display": "Adenoma present at margin",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366918.1",
-                        "display": "Margin(s) Involved by Adenoma",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366919.1",
-                        "display": "Proximal",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366920.1",
-                        "display": "Distal",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366921.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366922.1",
+                        "code": "366922.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "366908.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366909.1",
+                        "code": "366909.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "366910.1",
-                        "display": "Not applicable",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "366891.1",
-                        "display": "Margin Comment",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37813.1",
-                        "display": "REGIONAL LYMPH NODES",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "374432.1",
-                        "display": "Regional Lymph Node Status",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "11200.1",
-                        "display": "Not applicable (no regional lymph nodes submitted or found)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "374433.1",
-                        "display": "Regional lymph nodes present",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "356394.1",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "356390.1",
-                        "display": "All regional lymph nodes negative for tumor",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "356395.1",
-                        "display": "Tumor present in regional lymph node(s)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "42571.1",
-                        "display": "Number of Lymph Nodes with Tumor",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "11205.1",
-                        "display": "Exact number (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "39946.1",
-                        "display": "At least (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "356393.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "11206.1",
+                        "code": "11206.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "356391.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "356392.1",
+                        "code": "356392.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "54181.1",
-                        "display": "Number of Lymph Nodes Examined",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "11202.1",
-                        "display": "Exact number (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "57908.1",
-                        "display": "At least (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "356396.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "11203.1",
+                        "code": "11203.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "358481.1",
-                        "display": "Regional Lymph Node Comment",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "356475.1",
-                        "display": "DISTANT METASTASIS",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "356476.1",
-                        "display": "?Distant Site(s) Involved, if applicable",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "356479.1",
-                        "display": "?Not applicable",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "359163.1",
-                        "display": "Non-regional lymph node(s)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "359164.1",
-                        "display": "Liver",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "356477.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "356478.1",
+                        "code": "356478.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6560.100004",
-                        "display": "PATHOLOGIC STAGE CLASSIFICATION (pTNM, AJCC 8th Edition)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "35973.1",
-                        "display": "Reporting of pT, pN, and (when applicable) pM categories is based on information available to the pathologist at the time the report is issued. As per the AJCC (Chapter 1, 8th Ed.) it is the managing physician’s responsibility to establish the final pathologic stage based upon all pertinent information, including but potentially not limited to this pathology report.",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19310.1",
-                        "display": "?TNM Descriptors",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "2466.100004",
-                        "display": "?Not applicable",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "20243.1",
-                        "display": "m (multiple primary tumors)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "20244.1",
-                        "display": "r (recurrent)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "20242.1",
-                        "display": "y (post-treatment)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "327652.1",
-                        "display": "pT Category",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "327653.1",
-                        "display": "pT not assigned (cannot be determined based on available pathological information)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6563.100004",
-                        "display": "pT0: No evidence of primary tumor",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37804.1",
-                        "display": "pTis: High-grade dysplasia / carcinoma in situ",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "55954.1",
-                        "display": "pT1: Tumor invades the lamina propria or submucosa",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6565.100004",
-                        "display": "pT1a: Tumor invades the lamina propria",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "20245.1",
-                        "display": "pT1b: Tumor invades the submucosa",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "42887.1",
-                        "display": "pT1 (subcategory cannot be determined)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6566.100004",
-                        "display": "pT2: Tumor invades the muscularis propria",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37810.1",
-                        "display": "# For T3 tumors, the nonperitonealized perimuscular tissue is, for the jejunum and ileum, part of the mesentery and, for the duodenum in areas where serosa is lacking, part of the interface with the pancreas.",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37808.1",
-                        "display": "pT3: Tumor invades through the muscularis propria into the subserosa, or extends into nonperitonealized perimuscular tissue (mesentery or retroperitoneum) without serosal penetration#",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37809.1",
-                        "display": "pT4: Tumor perforates the visceral peritoneum or directly invades other organs or structures (e.g., other loops of small intestine, mesentery of adjacent loops of bowel, and abdominal wall by way of serosa; for duodenum only, invasion of pancreas or bile duct)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "327654.1",
-                        "display": "pN Category",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "327655.1",
-                        "display": "pN not assigned (no nodes submitted or found) ",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "327656.1",
-                        "display": "pN not assigned (cannot be determined based on available pathological information)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6571.100004",
-                        "display": "pN0: No regional lymph node metastasis",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37815.1",
-                        "display": "pN1: Metastasis in one or two regional lymph nodes",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37816.1",
-                        "display": "pN2: Metastasis in three or more regional lymph nodes",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6575.100004",
-                        "display": "?pM Category (required only if confirmed pathologically)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "20248.1",
-                        "display": "?Not applicable - pM cannot be determined from the submitted specimen(s)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6577.100004",
-                        "display": "pM1: Distant metastasis",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "17729.1",
-                        "display": "ADDITIONAL FINDINGS",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6645.100004",
-                        "display": "Additional Findings",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6646.100004",
-                        "display": "None identified",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6647.100004",
-                        "display": "Adenoma(s)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6648.100004",
-                        "display": "Crohn disease",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6649.100004",
-                        "display": "Celiac disease",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6651.100004",
-                        "display": "Other polyp(s) (specify type[s])",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6652.100004",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "17725.1",
-                        "display": "SPECIAL STUDIES",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "52166.1",
-                        "display": "For reporting molecular testing and immunohistochemistry for mismatch repair proteins, and for other cancer biomarker testing results, the CAP Colorectal Biomarker Template should be used. Pending biomarker studies should be listed in the Comments section of this report.",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "381124.1",
-                        "display": "COMMENTS",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6653.100004",
-                        "display": "?Comment(s)",
-                        "target": [
-                            {
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]

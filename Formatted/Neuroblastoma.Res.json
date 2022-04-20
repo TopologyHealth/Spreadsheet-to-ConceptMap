@@ -4,7 +4,7 @@
         "name": "Neuroblastoma.Res",
         "title": "Neuroblastoma.Res",
         "experimental": true,
-        "date": "2022-04-19",
+        "date": "2022-04-20",
         "publisher": "College of American Pathologists",
         "contact": [
             {
@@ -25,1323 +25,221 @@
                 "target": "http://snomed.info/sct",
                 "element": [
                     {
-                        "code": "19238.1",
-                        "display": "First priority should always be given to formalin-fixed tissue for morphologic evaluation. Optimally, at least 100 mg of viable snap-frozen tissue is preferred as the second priority for workup.",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "39148.1",
-                        "display": "For more information, contact: The Children's Oncology Group Biopathology Center, Phone: (614) 722-2890 or (800) 347-2486",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "17562.1",
-                        "display": "CLINICAL",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19056.1",
-                        "display": "Treatment History",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19102.1",
-                        "display": "No known preoperative therapy",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19103.1",
-                        "display": "Preoperative therapy given",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19104.1",
-                        "display": "Not specified",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19066.1",
-                        "display": "Patient Age",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19073.1",
-                        "display": "Less than 18 months",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19074.1",
-                        "display": "Greater than or equal to 18 months and less than 5 years",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19075.1",
-                        "display": "Greater than or equal to 5 years",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "17563.1",
-                        "display": "SPECIMEN",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "56910.1",
+                        "code": "56910.100004300",
                         "display": "Procedure",
                         "target": [
                             {
-                                "code": "2620001000004108 |Specimen collection procedure (observable entity)|",
+                                "code": "2620001000004108 ",
+                                "display": "Specimen collection procedure (observable entity)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "19063.1",
-                        "display": "Resection",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "5194.100004",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "5195.100004",
-                        "display": "Not specified",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "17564.1",
-                        "display": "TUMOR",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "50753.1",
+                        "code": "50753.100004300",
                         "display": "Tumor Site",
                         "target": [
                             {
-                                "code": "399687005 |Anatomic location of primary malignant neoplasm (observable entity)|",
+                                "code": "399687005 ",
+                                "display": "Anatomic location of primary malignant neoplasm (observable entity)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "19054.1",
-                        "display": "Adrenal / periadrenal",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19058.1",
-                        "display": "Retroperitoneal, nonadrenal",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19060.1",
-                        "display": "Thoracic paraspinal",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19061.1",
-                        "display": "Cervical region",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19062.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19059.1",
-                        "display": "Not specified",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "5210.100004",
-                        "display": "Tumor Size",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "5212.100004",
+                        "code": "5212.100004300",
                         "display": "Greatest dimension in Centimeters (cm)",
                         "target": [
                             {
-                                "code": "200001000004104 |Greatest length dimension of excised primary malignant neoplasm (observable entity)|",
+                                "code": "200001000004104 ",
+                                "display": "Greatest length dimension of excised primary malignant neoplasm (observable entity)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "5213.100004",
-                        "display": "Additional Dimension in Centimeters (cm)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "5214.100004",
-                        "display": "Additional Dimension in Centimeters (cm)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "5211.100004",
+                        "code": "5211.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "59887.1",
-                        "display": "Histologic Type",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19076.1",
-                        "display": "Neuroblastoma",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19084.1",
-                        "display": "# For nodular (composite) ganglioneuroblastomas with more than 1 nodule, degree of differentiation and mitotic-karyorrhectic index (MKI) must be given for each nodule. Please indicate the differentiation and MKI for the least favorable nodule in the checklist below. Classification of additional nodules can be described in the Comment.",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19080.1",
-                        "display": "Ganglioneuroblastoma, nodular subtype#",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "380140.1",
-                        "display": "Number of Nodules",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "380141.1",
-                        "display": "Specify number",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "380143.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "380142.1",
+                        "code": "380142.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "352629.1",
-                        "display": "Nodular Subtype(s) (repeat for each nodule)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19081.1",
-                        "display": "Ganglioneuroblastoma, intermixed subtype",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19082.1",
-                        "display": "Ganglioneuroma",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36834.1",
-                        "display": "Ganglioneuroma, maturing",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36835.1",
-                        "display": "Ganglioneuroma, mature",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "43886.1",
-                        "display": "Neuroblastic tumor, unclassifiable",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "51374.1",
-                        "display": "Treated neuroblastoma / neuroblastic tumor",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37249.1",
+                        "code": "37249.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "379558.1",
-                        "display": "Histologic Type Comment",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19085.1",
-                        "display": "?Degree of Differentiation",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379671.1",
-                        "display": "Report neuroblastic component if not previously treated",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19090.1",
-                        "display": "?Not applicable",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19087.1",
-                        "display": "Undifferentiated",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19088.1",
-                        "display": "Poorly differentiated",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19086.1",
-                        "display": "Differentiating",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37250.1",
+                        "code": "37250.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "19091.1",
-                        "display": "?Mitotic-Karyorrhectic Index (MKI)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379670.1",
-                        "display": "Report neuroblastic component if not previously treated",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19097.1",
-                        "display": "?Not applicable",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19092.1",
-                        "display": "Low (less than 100 per 5000 cells; less than 2%)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19094.1",
-                        "display": "Intermediate (100-200 per 5000 cells; 2%-4%)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19093.1",
-                        "display": "High (greater than 200 per 5000 cells; greater than 4%)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37251.1",
+                        "code": "37251.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "36483.1",
-                        "display": "Treatment Effect",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36491.1",
-                        "display": "Not applicable",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36499.1",
+                        "code": "36499.100004300",
                         "display": "Not identified",
                         "target": [
                             {
-                                "code": "47492008 |Not seen (qualifier value)|",
+                                "code": "47492008 ",
+                                "display": "Not seen (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "36507.1",
+                        "code": "36507.100004300",
                         "display": "Present",
                         "target": [
                             {
-                                "code": "52101004 |Present (qualifier value)|",
+                                "code": "52101004 ",
+                                "display": "Present (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "379672.1",
-                        "display": "Percentage of Tumor Necrosis",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379673.1",
-                        "display": "Specify percentage",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379674.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379675.1",
+                        "code": "379675.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "379676.1",
-                        "display": "Percentage of Therapy-Induced Cytodifferentiation",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379677.1",
-                        "display": "Specify percentage",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379678.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379679.1",
+                        "code": "379679.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "36678.1",
+                        "code": "36678.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "379559.1",
-                        "display": "Tumor Comment",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36722.1",
-                        "display": "REGIONAL LYMPH NODES",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "374384.1",
-                        "display": "Regional Lymph Node Status",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "10255.1",
-                        "display": "Not applicable (no regional lymph nodes submitted or found)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "374385.1",
-                        "display": "Regional lymph nodes present",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "359101.1",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "359119.1",
-                        "display": "All regional lymph nodes negative for tumor",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "359120.1",
-                        "display": "Tumor present in regional lymph node(s)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "10259.1",
-                        "display": "Number of Lymph Nodes with Tumor",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "10260.1",
-                        "display": "Exact number (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36680.1",
-                        "display": "At least (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "359123.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "10261.1",
+                        "code": "10261.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "359126.1",
-                        "display": "?Nodal Site(s) with Tumor, if known",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "359127.1",
-                        "display": "?Not known",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "359128.1",
-                        "display": "Specify site(s)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "359129.1",
+                        "code": "359129.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "359121.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "359122.1",
+                        "code": "359122.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "10256.1",
-                        "display": "Number of Lymph Nodes Examined",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "10257.1",
-                        "display": "Exact number (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36679.1",
-                        "display": "At least (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "359124.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "10258.1",
+                        "code": "10258.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "365182.1",
-                        "display": "Regional Lymph Node Comment",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379680.1",
-                        "display": "DISTANT METASTASIS",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379681.1",
-                        "display": "?Distant Site(s) Involved, if applicable",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379684.1",
-                        "display": "?Not applicable",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379682.1",
-                        "display": "Specify site(s)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379683.1",
+                        "code": "379683.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "50750.1",
-                        "display": "PATHOLOGIC STAGE",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "52568.1",
-                        "display": "?International Neuroblastoma Pathology Classification (INPC) (report if not previously treated)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36720.1",
-                        "display": "INPC applies to untreated primary tumors and tumors in metastatic sites provided that there is sufficient material to classify histologically. Classification based on limited material (biopsy or incomplete resection) may be subject to sampling error and should be noted, accordingly. Bone marrow biopsy is useful only for evaluation of degree of neuroblastic differentiation, but is not eligible for MKI determination.",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36690.1",
-                        "display": "?Not applicable (secondary to previous chemotherapy)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36692.1",
-                        "display": "Favorable histopathology",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365225.1",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365226.1",
-                        "display": "Neuroblastoma, poorly differentiated subtype, low or intermediate MKI, less than 18 months old",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365227.1",
-                        "display": "Neuroblastoma, differentiating subtype, intermediate MKI, less than 18 months old",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365228.1",
-                        "display": "Neuroblastoma, differentiating subtype, low MKI, less than 5 years old",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365229.1",
-                        "display": "Ganglioneuroblastoma, nodular, poorly differentiated subtype, low or intermediate MKI, less than 18 months old",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365230.1",
-                        "display": "Ganglioneuroblastoma, nodular, intermediate MKI, less than 18 months old",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365231.1",
-                        "display": "Ganglioneuroblastoma, nodular, differentiating subtype, low MKI, less than 5 years old",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365232.1",
-                        "display": "Ganglioneuroblastoma, intermixed, any age",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365233.1",
-                        "display": "Ganglioneuroma, mature or maturing, any age",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36689.1",
-                        "display": "Unfavorable histopathology",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365234.1",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365235.1",
-                        "display": "Neuroblastoma, undifferentiated subtype, any MKI, any age",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365236.1",
-                        "display": "Neuroblastoma, poorly differentiated subtype, high MKI, any age",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365237.1",
-                        "display": "Neuroblastoma, poorly differentiated subtype, low or intermediate MKI, greater than 18 months old",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365238.1",
-                        "display": "Neuroblastoma, differentiating subtype, high MKI, any age",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365239.1",
-                        "display": "Neuroblastoma, differentiating subtype, low MKI, greater than 5 years old",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365240.1",
-                        "display": "Ganglioneuroblastoma, nodular, undifferentiated subtype, any MKI, any age",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365241.1",
-                        "display": "Ganglioneuroblastoma, nodular, poorly differentiated subtype, high MKI, any age",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365242.1",
-                        "display": "Ganglioneuroblastoma, nodular, poorly differentiated subtype, low or intermediate MKI, greater than 18 months old",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365243.1",
-                        "display": "Ganglioneuroblastoma, nodular, differentiating subtype, intermediate MKI, greater than 18 months old",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365244.1",
-                        "display": "Ganglioneuroblastoma, nodular, differentiating subtype, high MKI, any age",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365245.1",
-                        "display": "Ganglioneuroblastoma, nodular, differentiating subtype, low MKI, greater than 5 years old",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "365246.1",
+                        "code": "365246.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "17983.1",
-                        "display": "ADDITIONAL FINDINGS",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "2947.100004",
-                        "display": "Additional Findings (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "25881.1",
-                        "display": "SPECIAL STUDIES",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19055.1",
-                        "display": "?MYCN Amplification Status (for all tumors except ganglioneuroma or post-therapy resection specimens)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19057.1",
-                        "display": "Results of MYCN amplification information may not be available to the pathologist at the time of the report.",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36836.1",
-                        "display": "?Not applicable (secondary to previous chemotherapy)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19108.1",
-                        "display": "Not amplified",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19067.1",
-                        "display": "Amplified",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19111.1",
-                        "display": "Gain",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19112.1",
+                        "code": "19112.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36721.1",
-                        "display": "Pending",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36723.1",
-                        "display": "Other Ancillary Studies (specify)",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "381107.1",
-                        "display": "COMMENTS",
-                        "target": [
-                            {
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "5282.100004",
-                        "display": "?Comment(s)",
-                        "target": [
-                            {
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]

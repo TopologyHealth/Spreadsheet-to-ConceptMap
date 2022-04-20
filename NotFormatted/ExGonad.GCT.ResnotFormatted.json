@@ -5,7 +5,7 @@
         "name": "ExGonad.GCT.Res",
         "title": "ExGonad.GCT.Res",
         "experimental": true,
-        "date": "2022-04-19",
+        "date": "2022-04-20",
         "publisher": "College of American Pathologists",
         "contact": [
             {
@@ -26,2410 +26,364 @@
                 "target": "http://snomed.info/sct",
                 "element": [
                     {
-                        "code": "4557.100004",
-                        "display": "CLINICAL",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36780.1",
-                        "display": "Treatment History",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36783.1",
-                        "display": "No known preoperative therapy",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36781.1",
-                        "display": "Preoperative therapy given",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36782.1",
-                        "display": "Not specified",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "20521.1",
-                        "display": "Patient Age",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "20600.1",
-                        "display": "Congenital / neonatal (birth - 6 months)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "20624.1",
-                        "display": "Childhood / prepubertal (7 months - 11 years)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "20338.1",
-                        "display": "Postpubertal / adult (greater than or equal to 12 years)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "4563.100004",
-                        "display": "SPECIMEN",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "41805.1",
+                        "code": "41805.100004300",
                         "display": "Procedure",
                         "target": [
                             {
-                                "code": "2620001000004108 |Specimen collection procedure (observable entity)|",
-                                "display": "",
+                                "code": "2620001000004108 ",
+                                "display": "Specimen collection procedure (observable entity)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "36761.1",
-                        "display": "Marginal resection",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36767.1",
-                        "display": "Wide resection",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36554.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36757.1",
-                        "display": "Not specified",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "4578.100004",
-                        "display": "TUMOR",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "4575.100004",
+                        "code": "4575.100004300",
                         "display": "Tumor Site",
                         "target": [
                             {
-                                "code": "399687005 |Anatomic location of primary malignant neoplasm (observable entity)|",
-                                "display": "",
+                                "code": "399687005 ",
+                                "display": "Anatomic location of primary malignant neoplasm (observable entity)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "20382.1",
-                        "display": "Intracranial",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "20427.1",
-                        "display": "Head and neck region (including thyroid; excluding intracranial)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "20443.1",
-                        "display": "Mediastinum (pericardium, heart, thymus, and lung)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "20442.1",
-                        "display": "Retroperitoneum / abdomen",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "20440.1",
-                        "display": "Sacrococcygeal",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "4576.100004",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "4577.100004",
-                        "display": "Not specified",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36769.1",
-                        "display": "Histologic Type",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36770.1",
-                        "display": "Teratoma",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21020.1",
-                        "display": "Mature teratoma",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21044.1",
-                        "display": "Immature teratoma",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379145.1",
-                        "display": "Percentage of Teratoma Composed of Immature Elements",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379146.1",
-                        "display": "Specify percentage",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379147.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379148.1",
+                        "code": "379148.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "21014.1",
-                        "display": "Mature or immature teratoma with additional malignant somatic component (specify type, e.g., epithelial malignancy, sarcoma)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36772.1",
-                        "display": "Malignant Germ Cell",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36774.1",
-                        "display": "Germinoma",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21079.1",
-                        "display": "Yolk sac tumor",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21085.1",
-                        "display": "Embryonal carcinoma",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "4583.100004",
-                        "display": "Choriocarcinoma",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36775.1",
-                        "display": "Mixed germ cell tumor (any combination of the above, with or without teratoma) (specify components)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36776.1",
+                        "code": "36776.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "379149.1",
-                        "display": "Histologic Type Comment",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21016.1",
-                        "display": "Histologic Grade (applicable to immature teratomas only)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21096.1",
-                        "display": "1",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21122.1",
-                        "display": "2",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21121.1",
-                        "display": "3",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36779.1",
+                        "code": "36779.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "4589.100004",
-                        "display": "Tumor Size",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "4590.100004",
+                        "code": "4590.100004300",
                         "display": "Greatest dimension in Centimeters (cm)",
                         "target": [
                             {
-                                "code": "200001000004104 |Greatest length dimension of excised primary malignant neoplasm (observable entity)|",
-                                "display": "",
+                                "code": "200001000004104 ",
+                                "display": "Greatest length dimension of excised primary malignant neoplasm (observable entity)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "4591.100004",
-                        "display": "Additional Dimension in Centimeters (cm)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "4592.100004",
-                        "display": "Additional Dimension in Centimeters (cm)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "4593.100004",
+                        "code": "4593.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "380036.1",
-                        "display": "?Microscopic Coccyx Involvement (applicable to sacrococcygeal resections only)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "380037.1",
-                        "display": "?Not applicable",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "380040.1",
+                        "code": "380040.100004300",
                         "display": "Not identified",
                         "target": [
                             {
-                                "code": "47492008 |Not seen (qualifier value)|",
-                                "display": "",
+                                "code": "47492008 ",
+                                "display": "Not seen (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "380038.1",
+                        "code": "380038.100004300",
                         "display": "Present",
                         "target": [
                             {
-                                "code": "52101004 |Present (qualifier value)|",
-                                "display": "",
+                                "code": "52101004 ",
+                                "display": "Present (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "380039.1",
+                        "code": "380039.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "380048.1",
-                        "display": "Tumor Extent (applicable to adult [post-pubertal] extragonadal germ cell tumors)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "380052.1",
-                        "display": "Well-circumscribed without focal adhesions to pleura or pericardium",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "380050.1",
-                        "display": "Well-circumscribed with focal adhesions to pleura or pericardium",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "380053.1",
-                        "display": "Confined to the mediastinum with macroscopic and / or microscopic invasion into adjacent structures (i.e., pleura, pericardium, and great vessels) (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "380051.1",
+                        "code": "380051.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "380049.1",
-                        "display": "Not applicable",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "4625.100004",
-                        "display": "Lymphovascular Invasion",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "4626.100004",
+                        "code": "4626.100004300",
                         "display": "Not identified",
                         "target": [
                             {
-                                "code": "47492008 |Not seen (qualifier value)|",
-                                "display": "",
+                                "code": "47492008 ",
+                                "display": "Not seen (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "4627.100004",
+                        "code": "4627.100004300",
                         "display": "Present",
                         "target": [
                             {
-                                "code": "52101004 |Present (qualifier value)|",
-                                "display": "",
+                                "code": "52101004 ",
+                                "display": "Present (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "4628.100004",
+                        "code": "4628.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "21176.1",
-                        "display": "Perineural Invasion",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21180.1",
+                        "code": "21180.100004300",
                         "display": "Not identified",
                         "target": [
                             {
-                                "code": "47492008 |Not seen (qualifier value)|",
-                                "display": "",
+                                "code": "47492008 ",
+                                "display": "Not seen (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "21178.1",
+                        "code": "21178.100004300",
                         "display": "Present",
                         "target": [
                             {
-                                "code": "52101004 |Present (qualifier value)|",
-                                "display": "",
+                                "code": "52101004 ",
+                                "display": "Present (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "36797.1",
+                        "code": "36797.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "36784.1",
-                        "display": "Treatment Effect",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36786.1",
+                        "code": "36786.100004300",
                         "display": "Not identified",
                         "target": [
                             {
-                                "code": "47492008 |Not seen (qualifier value)|",
-                                "display": "",
+                                "code": "47492008 ",
+                                "display": "Not seen (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "36787.1",
+                        "code": "36787.100004300",
                         "display": "Present",
                         "target": [
                             {
-                                "code": "52101004 |Present (qualifier value)|",
-                                "display": "",
+                                "code": "52101004 ",
+                                "display": "Present (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "379846.1",
-                        "display": "Percentage of Tumor Necrosis",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379847.1",
-                        "display": "Specify percentage",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379848.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379849.1",
+                        "code": "379849.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "36789.1",
+                        "code": "36789.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "36785.1",
-                        "display": "Not applicable",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379551.1",
-                        "display": "Tumor Comment",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "4605.100004",
-                        "display": "MARGINS",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "4606.100004",
-                        "display": "Margin Status",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "4608.100004",
-                        "display": "All margins negative for tumor",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358548.1",
-                        "display": "Closest Margin(s) to Tumor",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358549.1",
-                        "display": "Specify closest margin(s)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358547.1",
+                        "code": "358547.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "358602.1",
-                        "display": "Distance from Tumor to Closest Margin",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358611.1",
-                        "display": "Specify in Centimeters (cm)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21171.1",
-                        "display": "Exact distance",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358613.1",
-                        "display": "Greater than",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358614.1",
-                        "display": "At least",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358615.1",
-                        "display": "Less than",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358616.1",
-                        "display": "Less than 0.1 cm",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358609.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21165.1",
+                        "code": "21165.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "4611.100004",
-                        "display": "Tumor present at margin",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358761.1",
-                        "display": "Margin(s) Involved by Tumor",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358762.1",
-                        "display": "Specify involved margin(s)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358760.1",
+                        "code": "358760.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "358530.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "4607.100004",
+                        "code": "4607.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "358531.1",
-                        "display": "Not applicable",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358532.1",
-                        "display": "Margin Comment",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36798.1",
-                        "display": "REGIONAL LYMPH NODES",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "374368.1",
-                        "display": "Regional Lymph Node Status",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "1841.100004",
-                        "display": "Not applicable (no regional lymph nodes submitted or found)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "374369.1",
-                        "display": "Regional lymph nodes present",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358968.1",
-                        "display": "",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358969.1",
-                        "display": "All regional lymph nodes negative for tumor",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358970.1",
-                        "display": "Tumor present in regional lymph node(s)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "1845.100004",
-                        "display": "Number of Lymph Nodes with Tumor",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "1846.100004",
-                        "display": "Exact number (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36806.1",
-                        "display": "At least (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358971.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "1847.100004",
+                        "code": "1847.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "358972.1",
-                        "display": "?Nodal Site(s) with Tumor, if known",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358973.1",
-                        "display": "?Not known",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358974.1",
-                        "display": "Specify nodal site(s)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358975.1",
+                        "code": "358975.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "380022.1",
-                        "display": "Histologic Type Present in Involved Node(s)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "380023.1",
-                        "display": "Specify type(s)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "380024.1",
+                        "code": "380024.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "359068.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "359069.1",
+                        "code": "359069.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "1842.100004",
-                        "display": "Number of Lymph Nodes Examined",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "1843.100004",
-                        "display": "Exact number (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36802.1",
-                        "display": "At least (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "358976.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "1844.100004",
+                        "code": "1844.100004300",
                         "display": "Cannot be determined (explain)",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "365146.1",
-                        "display": "Regional Lymph Node Comment",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379989.1",
-                        "display": "DISTANT METASTASIS",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379990.1",
-                        "display": "?Distant Site(s) Involved, if applicable",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379995.1",
-                        "display": "?Not applicable",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379992.1",
-                        "display": "Intrathoracic organ(s) or site(s) (i.e., lymph nodes, lung, etc.) (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379991.1",
-                        "display": "Liver",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379993.1",
-                        "display": "Other extrathoracic organ(s) or site(s) (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379994.1",
+                        "code": "379994.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "380013.1",
-                        "display": "Size of Largest Distant Metastasis",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "380014.1",
-                        "display": "Specify in Centimeters (cm)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "380016.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "380011.1",
+                        "code": "380011.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
                     },
                     {
-                        "code": "380008.1",
-                        "display": "Histologic Type Present in Distant Metastasis",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "380009.1",
-                        "display": "Specify type(s)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "380010.1",
+                        "code": "380010.100004300",
                         "display": "Cannot be determined",
                         "target": [
                             {
-                                "code": "1156316003 |Cannot be determined (qualifier value)|",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "6965.100004",
-                        "display": "PATHOLOGIC STAGE",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21201.1",
-                        "display": "Children\u2019s Oncology Group Staging for any Malignant Extragonadal Germ Cell Tumor (see also specific staging systems for mediastinal germ cell tumors)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36804.1",
-                        "display": "COG Staging is based on pretreatment tumor characteristics. Clinical information required to definitively assign stage (e.g., gross residual disease or presence of metastatic disease) may not be available to the pathologist. If applicable, the appropriate stage group may be assigned by the pathologist.",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21204.1",
-                        "display": "Stage I: Complete resection at any site; coccygectomy for sacrococcygeal site; negative tumor margins",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21206.1",
-                        "display": "Stage II: Microscopic residual; lymph nodes negative",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21207.1",
-                        "display": "Stage III: Lymph nodes involved by metastatic disease. Gross residual or biopsy only, retroperitoneal nodes negative or positive",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21208.1",
-                        "display": "Stage IV: Distant metastases, including liver",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "41052.1",
-                        "display": "Moran and Suster Proposed Clinical Staging for Mediastinal Germ Cell Tumors#",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21246.1",
-                        "display": "# Applies to adult (postpubertal) extragonadal germ cell tumors.",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21247.1",
-                        "display": "Stage I: Well-circumscribed tumor with or without focal adhesions to the pleura or pericardium but without microscopic evidence of invasion into adjacent structures",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21248.1",
-                        "display": "Stage II: Tumor confined to the mediastinum with macroscopic and / or microscopic evidence of infiltration into adjacent structures (i.e., pleura, pericardium, and great vessels)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "48546.1",
-                        "display": "Stage III: Tumor with metastases",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21250.1",
-                        "display": "Stage IIIA: With metastases to intrathoracic organs (lymph nodes, lung, etc)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21251.1",
-                        "display": "Stage IIIB: With extrathoracic metastases",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "8049.100004",
-                        "display": "ADDITIONAL FINDINGS",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "36742.1",
-                        "display": "Associated Syndrome(s)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21244.1",
-                        "display": "Not known",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21273.1",
-                        "display": "Klinefelter",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21274.1",
-                        "display": "Down",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21275.1",
-                        "display": "Other (e.g., intersex, Li Fraumeni) (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21277.1",
-                        "display": "Associated Malignancy (not part of the extragonadal germ cell tumor)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21278.1",
-                        "display": "Leukemia (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21279.1",
-                        "display": "Myelodysplastic syndrome (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "8226.100004",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379150.1",
-                        "display": "Other Clinical Findings (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "43551.1",
-                        "display": "SPECIAL STUDIES",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379151.1",
-                        "display": "Immunohistochemistry",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364637.1",
-                        "display": "SALL4 IHC",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364641.1",
-                        "display": "Not performed",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364638.1",
-                        "display": "Positive",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364639.1",
-                        "display": "Negative",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364640.1",
-                        "display": "Pending",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364642.1",
-                        "display": "OCT3/4 IHC",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364646.1",
-                        "display": "Not performed",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364643.1",
-                        "display": "Positive",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364644.1",
-                        "display": "Negative",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364645.1",
-                        "display": "Pending",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364652.1",
-                        "display": "CD30 IHC",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364656.1",
-                        "display": "Not performed",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364653.1",
-                        "display": "Positive",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364654.1",
-                        "display": "Negative",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364655.1",
-                        "display": "Pending",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364647.1",
-                        "display": "AFP IHC",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364651.1",
-                        "display": "Not performed",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364648.1",
-                        "display": "Positive",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364649.1",
-                        "display": "Negative",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364650.1",
-                        "display": "Pending",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364663.1",
-                        "display": "Glypican-3 IHC",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364667.1",
-                        "display": "Not performed",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364664.1",
-                        "display": "Positive",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364665.1",
-                        "display": "Negative",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364666.1",
-                        "display": "Pending",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364658.1",
-                        "display": "Beta-HCG IHC",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364662.1",
-                        "display": "Not performed",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364659.1",
-                        "display": "Positive",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364660.1",
-                        "display": "Negative",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364661.1",
-                        "display": "Pending",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "364673.1",
-                        "display": "Other Immunohistochemistry (IHC) Studies (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379152.1",
-                        "display": "Cytogenetic Studies",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379153.1",
-                        "display": "Results of Cytogenetic Studies",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "19156.1",
-                        "display": "Not specified",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21245.1",
-                        "display": "Not performed",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379154.1",
-                        "display": "Pending",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21252.1",
-                        "display": "Normal karyotype",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21268.1",
-                        "display": "Isochromosome 12p abnormality [i(12p)]",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21269.1",
-                        "display": "Other [e.g., del(5q), trisomy 8, 11q23 abnormality] (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "379155.1",
-                        "display": "Serologic Markers",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21205.1",
-                        "display": "Serologic Marker Testing",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21270.1",
-                        "display": "Not specified",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "37972.1",
-                        "display": "Not performed",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21271.1",
-                        "display": "Serum alpha-fetoprotein (AFP) (specify level)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "21272.1",
-                        "display": "Serum human chorionic gonadotropin (hCG) (specify level)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "40554.1",
-                        "display": "Other (specify)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "381083.1",
-                        "display": "COMMENTS",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
-                                "equivalence": "equivalent"
-                            }
-                        ]
-                    },
-                    {
-                        "code": "8229.100004",
-                        "display": "?Comment(s)",
-                        "target": [
-                            {
-                                "code": "",
-                                "display": "",
+                                "code": "1156316003 ",
+                                "display": "Cannot be determined (qualifier value)",
                                 "equivalence": "equivalent"
                             }
                         ]
