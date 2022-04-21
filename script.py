@@ -7,32 +7,6 @@ today = date.today()
 with open ('Scott_Query_wscPopulated.xlsx - Sheet1.csv', 'r') as f1:
     reader = csv.reader(f1)
     next(reader)
-    targetCodeAndDisplay = []
-    for index, row in enumerate(reader):
-        targetCodeAndDisplay.append(row[14].split('|'))
-
-
-with open ('Scott_Query_wscPopulated.xlsx - Sheet1.csv', 'r') as f1:
-    reader = csv.reader(f1)
-    next(reader)
-    titles = []
-    titlesRow = []
-    for index, row in enumerate(reader):
-        titlesRow.append(row[3])
-        if(row[3] in titles):
-            continue
-        else: titles.append(row[3])
-
-firstIndexOfTitle = []
-for value in titles:
-    firstIndexOfTitle.append(titlesRow.index(value))
-
-
-currentTitleIndex = 0 
-
-with open ('Scott_Query_wscPopulated.xlsx - Sheet1.csv', 'r') as f1:
-    reader = csv.reader(f1)
-    next(reader)
     groupElements = []
     for index, row in enumerate(reader):
         if(len(row[14].split('|'))>1):
