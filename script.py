@@ -36,7 +36,6 @@ with open ('Scott_Query_wscPopulated.xlsx - Sheet1.csv', 'r') as f1:
     groupElements = []
     for index, row in enumerate(reader):
         if(len(row[14].split('|'))>1):
-            if(index>=firstIndexOfTitle[currentTitleIndex] and index<=firstIndexOfTitle[currentTitleIndex+1]):
                 groupElements.append({
                         'code':row[9],
                         'display':row[11],
@@ -46,40 +45,36 @@ with open ('Scott_Query_wscPopulated.xlsx - Sheet1.csv', 'r') as f1:
                             'equivalence':'equivalent'
                         }]    
                 })
-                data =[]
-                data.append({
-                    "resourceType": "ConceptMap",
-                    "status": "draft",
-                    'name': titles[currentTitleIndex], 
-                    'title': titles[currentTitleIndex],
-                    'experimental': True, 
-                    'date': str(today),
-                    'publisher': 'College of American Pathologists',
-                    "contact":[
-                        {
-                            "telecom": [
-                                {
-                                "system": "email",
-                                "value": "agoel@cap.org"
-                                }
-                        ]
-                        }],
-                    'description': 'mapping of SNOMED to CAP CKeys',
-                    'purpose': 'mapping of SNOMED to CAP CKeys',
-                    'copyright': 'College of American Pathologists 2022',
-                    'group':[
-                            
-                            {
-                                'source': 'http://cap.org/eCC',
-                                'target': 'http://snomed.info/sct',
-                                'element':
-                                    groupElements
-                            }
-                        ]
-                })
-                with open('./NotFormatted/'+titles[currentTitleIndex]+'notFormatted.json', 'w') as f:
-                    json.dump(data,f,indent=4, allow_nan=False)
-
-        if(index>=firstIndexOfTitle[currentTitleIndex+1]):
-            currentTitleIndex+=1
-            groupElements = []
+    data =[]
+    data.append({
+        "resourceType": "ConceptMap",
+        "status": "draft",
+        'name': 'CAPCkeyToSNOMEDmap', 
+        'title': 'CAPCkeyToSNOMEDmap',
+        'experimental': True, 
+        'date': str(today),
+        'publisher': 'College of American Pathologists',
+        "contact":[
+            {
+                "telecom": [
+                    {
+                    "system": "email",
+                    "value": "agoel@cap.org"
+                    }
+            ]
+            }],
+        'description': 'mapping of SNOMED to CAP CKeys',
+        'purpose': 'mapping of SNOMED to CAP CKeys',
+        'copyright': 'College of American Pathologists 2022',
+        'group':[
+                
+                {
+                    'source': 'http://cap.org/eCC',
+                    'target': 'http://snomed.info/sct',
+                    'element':
+                        groupElements
+                }
+            ]
+    })
+    with open('./NotFormatted/CAPCkeyToSNOMEDmapNotFormatted.json', 'w') as f:
+        json.dump(data,f,indent=4, allow_nan=False)
