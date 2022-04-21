@@ -21,7 +21,7 @@ for(const file of files){
  var json = JSON.stringify(myObj2, null, 4);
 
 
- fs.writeFile('./Formatted/' + file.slice(0,-17)+'.json', json, 'utf8', (err) => {
+ fs.writeFile('./Formatted/' + file +'.json', json, 'utf8', (err) => {
      if (err)
        console.log(err);
      else {
